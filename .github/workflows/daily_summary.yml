@@ -1,0 +1,153 @@
+from pathlib import Path
+import pandas as pd
+from datetime import datetime, timezone
+import requests
+import os
+
+# =====================
+# Paths
+# =====================
+PRED_PATH = Path("data/predictions.csv")
+SUMMARY_PATH = Path("data/summary.csv")
+LATEST_PATH = Path("data/latest.csv")
+
+# =====================
+# Limits (LiveFPL-ish)
+# =====================
+MAX_SIGNALS = 20
+
+# =====================
+# Telegram
+# =====================
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+
+def send_telegram(message: str):
+    if not BOT_TOKEN or not CHAT_ID:
+        print("⚠️ Telegram credentials missing")
+        return
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": message,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": True,
+    }
+
+    try:
+        r = requests.post(url, json=payload, timeout=10)
+        if r.status_code != 200:
+            print("⚠️ Telegram send failed:", r.text)
+    except Exception as e:
+        print(f"⚠️ Telegram error: {e}")
+
+# =====================
+# Main
+# =====================
+def main():
+    now = datetime.now(timezone.utc)
+
+    # ---------------------
+    # HARD GATE: 18:00 UTC ONLY
+    # ---------------------
+    if now.hour != 18:
+        print(f"⏳ Not 18:00 UTC (now {now.hour:02d}:00). Skipping summary.")
+        return
+
+    today = now.date()
+
+    if not PRED_PATH.exists() or not LATEST_PATH.exists():
+        print("⚠️ Required files missing")
+        return
+
+    preds = pd.read_csv(PRED_PATH)
+    latest = pd.read_csv(LATEST_PATH)
+
+    if preds.empty:
+        print("⚠️ predictions.csv empty")
+        return
+
+    # ---------------------
+    # Normalize dates
+    # ---------------------
+    preds["date"] = pd.to_datetime(preds["date"]).dt.date
+
+    # ---------------------
+    # Tonight's predictions ONLY
+    # ---------------------
+    preds = preds[
+        (preds["date"] == today) &
+        (preds["direction"].isin(["rise", "fall"]))
+    ].copy()
+
+    if preds.empty:
+        print("ℹ️ No predictions for tonight")
+        return
+
+    # ---------------------
+    # Active FPL players only
+    # ---------------------
+    active_players = latest[
+        latest["status"].isin(["a", "d"])
+    ][["player_id"]]
+
+    preds = preds.merge(active_players, on="player_id", how="inner")
+
+    if preds.empty:
+        print("ℹ️ No active-player predictions")
+        return
+
+    # ---------------------
+    # Rank by absolute pressure
+    # ---------------------
+    score_col = "pressure" if "pressure" in preds.columns else None
+    if score_col:
+        preds["abs_score"] = preds[score_col].abs()
+        preds = preds.sort_values("abs_score", ascending=False)
+
+    preds = preds.drop_duplicates(subset=["player_id"]).head(MAX_SIGNALS)
+
+    # ---------------------
+    # Persist summary
+    # ---------------------
+    out = preds[[
+        "player_id",
+        "web_name",
+        "direction",
+    ]].copy()
+
+    out.insert(0, "date", today)
+
+    SUMMARY_PATH.parent.mkdir(parents=True, exist_ok=True)
+
+    if SUMMARY_PATH.exists():
+        existing = pd.read_csv(SUMMARY_PATH)
+        existing["date"] = pd.to_datetime(existing["date"]).dt.date
+        existing = existing[existing["date"] != today]
+        out = pd.concat([existing, out], ignore_index=True)
+
+    out.to_csv(SUMMARY_PATH, index=False)
+
+    # ---------------------
+    # Telegram message
+    # ---------------------
+    lines = [
+        "📊 *FPL Daily Price Watch*",
+        f"📅 {today.isoformat()}",
+        "",
+        f"🚨 *Players Flagged*: {len(preds)}",
+        ""
+    ]
+
+    for _, row in preds.iterrows():
+        arrow = "⬆️" if row["direction"] == "rise" else "⬇️"
+        lines.append(f"{arrow} *{row['web_name']}*")
+
+    message = "\n".join(lines)
+
+    print(f"📊 Daily summary created ({len(preds)} players)")
+    send_telegram(message)
+
+if __name__ == "__main__":
+    main()
