@@ -1,0 +1,61 @@
+name: FPL Evaluation
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -------------------------
+      # Sync main
+      # -------------------------
+      - name: Sync with main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git pull origin main
+
+      # -------------------------
+      # Setup Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Install dependencies
+      # -------------------------
+      - name: Install dependencies
+        run: pip install pandas
+
+      # -------------------------
+      # Run evaluation
+      # -------------------------
+      - name: Evaluate predictions (D → D+1)
+        run: python scripts/evaluate.py
+
+      # -------------------------
+      # Commit results
+      # -------------------------
+      - name: Commit evaluation results
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Daily evaluation update"
+            git push origin main
+          else
+            echo "No evaluation changes"
+          fi
