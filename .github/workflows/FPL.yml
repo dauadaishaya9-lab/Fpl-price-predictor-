@@ -1,0 +1,79 @@
+name: FPL Price Predictor
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Snapshots + predictions (price change window)
+    - cron: "0 18 * * *"   # 18:00 UTC main run
+    - cron: "0 0 * * *"    # midnight safety run
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -------------------------
+      # Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy requests
+
+      # -------------------------
+      # DATA CREATION (ORDER MATTERS)
+      # -------------------------
+
+      # 1️⃣ Snapshot (creates latest.csv)
+      - name: Snapshot FPL data
+        run: python scripts/snapshot.py
+
+      # 2️⃣ Record price changes (diffs snapshots)
+      - name: Record price changes
+        run: python scripts/record_price_changes.py
+
+      # 3️⃣ Predict TONIGHT only
+      - name: Predict price changes
+        run: python scripts/predict.py
+
+      # 4️⃣ Daily summary (≤20 players)
+      - name: Daily summary
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/daily_summary.py
+
+      # 5️⃣ Evaluate D → D+1 only (if possible)
+      - name: Evaluate predictions
+        run: python scripts/evaluate.py
+
+      # -------------------------
+      # Commit results
+      # -------------------------
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Automated FPL predictor update"
+            git push
+          else
+            echo "No data changes"
+          fi
