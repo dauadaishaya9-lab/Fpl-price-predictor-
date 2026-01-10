@@ -1,0 +1,72 @@
+name: FPL Predictor
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # tonight run (main)
+    - cron: "0 6 * * *"    # evaluation window
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout
+      # -------------------------
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -------------------------
+      # Python
+      # -------------------------
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install pandas numpy requests
+
+      # =========================
+      # 1️⃣ FETCH SNAPSHOT (ALWAYS FIRST)
+      # =========================
+      - name: Fetch latest FPL snapshot
+        run: python scripts/snapshot.py
+
+      # =========================
+      # 2️⃣ RECORD PRICE CHANGES
+      # =========================
+      - name: Record price changes
+        run: python scripts/record_price_changes.py
+
+      # =========================
+      # 3️⃣ PREDICT (TONIGHT ONLY)
+      # =========================
+      - name: Generate predictions
+        run: python scripts/predict.py
+
+      # =========================
+      # 4️⃣ EVALUATE (D → D+1)
+      # =========================
+      - name: Evaluate predictions
+        run: python scripts/evaluate.py
+
+      # =========================
+      # 5️⃣ DAILY SUMMARY
+      # =========================
+      - name: Daily summary
+        run: python scripts/daily_summary.py
+
+      # -------------------------
+      # Commit data
+      # -------------------------
+      - name: Commit data
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Automated FPL update"
+            git push
+          else
+            echo "No changes"
+          fi
