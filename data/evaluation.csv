@@ -1392,3 +1392,9 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 700,2026-03-15,rise,none,False,
 207,2026-03-15,rise,none,False,
 110,2026-03-15,rise,none,False,
+606,2026-03-15,rise,none,False,
+457,2026-03-15,rise,rise,True,2026-03-15
+674,2026-03-15,rise,none,False,
+681,2026-03-15,rise,none,False,
+318,2026-03-15,rise,none,False,
+346,2026-03-15,rise,none,False,
