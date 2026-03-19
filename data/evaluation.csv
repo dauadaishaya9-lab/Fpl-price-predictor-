@@ -1480,3 +1480,4 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 679,2026-03-19,rise,none,False,
 314,2026-03-19,rise,none,False,
 290,2026-03-19,rise,none,False,
+475,2026-03-19,fall,none,False,
