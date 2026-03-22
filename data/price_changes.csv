@@ -1154,3 +1154,5 @@ player_id,web_name,price,date,change,price_old,price_new
 347,,,2026-03-22,fall,,3.8
 376,,,2026-03-22,fall,,4.9
 525,,,2026-03-22,fall,,7.1
+603,,,2026-03-22,rise,4.0,4.1
+825,,,2026-03-22,fall,,4.0
