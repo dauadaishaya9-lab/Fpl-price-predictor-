@@ -1930,3 +1930,7 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 367,2026-04-09,rise,none,False,
 643,2026-04-09,rise,none,False,
 485,2026-04-09,fall,none,False,
+139,2026-04-09,rise,none,False,
+160,2026-04-09,rise,none,False,
+700,2026-04-09,rise,none,False,
+508,2026-04-09,rise,none,False,
