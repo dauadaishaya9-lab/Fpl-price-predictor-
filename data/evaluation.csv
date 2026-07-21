@@ -4196,3 +4196,5 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 26,2026-07-21,fall,none,False,
 30,2026-07-21,fall,none,False,
 31,2026-07-21,fall,none,False,
+8,2026-07-21,fall,fall,True,2026-07-21
+11,2026-07-21,fall,fall,True,2026-07-21
