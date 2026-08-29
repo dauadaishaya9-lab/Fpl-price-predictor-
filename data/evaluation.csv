@@ -5028,3 +5028,13 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 17,2026-08-29,rise,fall,False,2026-08-29
 613,2026-08-29,fall,none,False,
 211,2026-08-29,rise,none,False,
+593,2026-08-29,rise,none,False,
+401,2026-08-29,rise,none,False,
+377,2026-08-29,rise,none,False,
+483,2026-08-29,rise,none,False,
+454,2026-08-29,fall,none,False,
+167,2026-08-29,rise,none,False,
+621,2026-08-29,rise,fall,False,2026-08-29
+618,2026-08-29,rise,fall,False,2026-08-29
+464,2026-08-29,fall,none,False,
+622,2026-08-29,rise,fall,False,2026-08-29
