@@ -5267,3 +5267,5 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 605,2026-09-07,rise,none,False,
 277,2026-09-07,rise,rise,True,2026-09-07
 627,2026-09-07,rise,none,False,
+654,2026-09-07,rise,none,False,
+148,2026-09-07,rise,none,False,
