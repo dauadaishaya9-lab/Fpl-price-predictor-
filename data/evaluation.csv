@@ -5692,3 +5692,4 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 330,2026-09-25,rise,none,False,
 449,2026-09-25,fall,none,False,
 229,2026-09-25,rise,none,False,
+504,2026-09-25,rise,none,False,
