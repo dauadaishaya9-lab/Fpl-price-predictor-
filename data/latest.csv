@@ -1,465 +1,465 @@
 player_id,web_name,first_name,second_name,team,team_id,position,price,now_cost,ownership,transfers_in_event,transfers_out_event,status,snapshot_time
-1,Raya,David,Raya Martín,Arsenal,1,1,6.1,61,44.6,98284,16648,a,2026-10-22T20:57:37.509750
-2,Arrizabalaga,Kepa,Arrizabalaga Revuelta,Arsenal,1,1,4.9,49,0.1,121,137,a,2026-10-22T20:57:37.509750
-3,Meslier,Illan,Meslier,Arsenal,1,1,4.9,49,0.0,30,64,a,2026-10-22T20:57:37.509750
-4,Gabriel,Gabriel,dos Santos Magalhães,Arsenal,1,2,7.9,79,21.1,27660,37391,a,2026-10-22T20:57:37.509750
-5,J.Timber,Jurriën,Timber,Arsenal,1,2,6.5,65,0.7,8722,5766,a,2026-10-22T20:57:37.509750
-7,Lewis-Skelly,Myles,Lewis-Skelly,Arsenal,1,3,5.4,54,0.5,874,2727,a,2026-10-22T20:57:37.509750
-8,Calafiori,Riccardo,Calafiori,Arsenal,1,2,6.0,60,54.1,113593,11806,a,2026-10-22T20:57:37.509750
-10,White,Benjamin,White,Arsenal,1,2,5.4,54,4.3,10660,8672,a,2026-10-22T20:57:37.509750
-11,Mosquera,Cristhian,Mosquera,Arsenal,1,2,5.2,52,1.3,550,6507,a,2026-10-22T20:57:37.509750
-13,Rice,Declan,Rice,Arsenal,1,3,7.3,73,11.5,71434,14390,a,2026-10-22T20:57:37.509750
-14,Eze,Eberechi,Eze,Arsenal,1,3,6.2,62,1.1,5563,4137,a,2026-10-22T20:57:37.509750
-15,Ødegaard,Martin,Ødegaard,Arsenal,1,3,6.8,68,18.5,43024,98341,a,2026-10-22T20:57:37.509750
-16,Madueke,Noni,Madueke,Arsenal,1,3,6.2,62,0.3,6042,845,a,2026-10-22T20:57:37.509750
-17,Merino,Mikel,Merino Zazón,Arsenal,1,3,5.7,57,0.4,862,1653,a,2026-10-22T20:57:37.509750
-19,Zubimendi,Martín,Zubimendi Ibáñez,Arsenal,1,3,5.2,52,0.5,322,2014,a,2026-10-22T20:57:37.509750
-20,Dowman,Max,Dowman,Arsenal,1,3,5.3,53,0.1,181,337,a,2026-10-22T20:57:37.509750
-25,Gyökeres,Viktor,Gyökeres,Arsenal,1,4,7.0,70,3.2,1971,17280,a,2026-10-22T20:57:37.509750
-26,Havertz,Kai,Havertz,Arsenal,1,4,7.5,75,6.1,10503,46637,a,2026-10-22T20:57:37.509750
-31,Konsa,Ezri,Konsa Ngoyo,Arsenal,1,2,4.6,46,18.0,78616,13194,a,2026-10-22T20:57:37.509750
-452,Bruno G.,Bruno,Guimarães Rodriguez Moura,Arsenal,1,3,6.7,67,2.4,17059,8229,a,2026-10-22T20:57:37.509750
-29,M.Bizot,Marco,Bizot,Aston Villa,2,1,4.5,45,0.1,173,278,a,2026-10-22T20:57:37.509750
-32,Cash,Matty,Cash,Aston Villa,2,2,4.4,44,4.1,5244,9521,a,2026-10-22T20:57:37.509750
-33,Mings,Tyrone,Mings,Aston Villa,2,2,4.5,45,0.4,1489,958,a,2026-10-22T20:57:37.509750
-34,Pau,Pau,Torres,Aston Villa,2,2,4.4,44,0.3,296,556,a,2026-10-22T20:57:37.509750
-35,Bogarde,Lamare,Bogarde,Aston Villa,2,3,4.9,49,0.1,96,221,a,2026-10-22T20:57:37.509750
-36,Maatsen,Ian,Maatsen,Aston Villa,2,2,4.4,44,0.3,112,1872,a,2026-10-22T20:57:37.509750
-37,Lindelöf,Victor,Lindelöf,Aston Villa,2,2,4.5,45,0.4,4554,973,a,2026-10-22T20:57:37.509750
-41,Buendía,Emiliano,Buendía Stati,Aston Villa,2,3,5.9,59,1.3,8478,7376,a,2026-10-22T20:57:37.509750
-45,McGinn,John,McGinn,Aston Villa,2,3,5.4,54,2.8,11610,14937,a,2026-10-22T20:57:37.509750
-46,Barkley,Ross,Barkley,Aston Villa,2,3,5.0,50,0.2,1020,1293,a,2026-10-22T20:57:37.509750
-47,Kamara,Boubacar,Kamara,Aston Villa,2,3,5.0,50,0.3,4244,1375,a,2026-10-22T20:57:37.509750
-50,Burrowes,Bradley,Burrowes,Aston Villa,2,3,4.4,44,0.5,1625,1871,a,2026-10-22T20:57:37.509750
-51,George Hemmings,George,Hemmings,Aston Villa,2,3,4.5,45,0.9,500,7234,a,2026-10-22T20:57:37.509750
-52,Alysson,Alysson Edward Franco,da Rocha dos Santos,Aston Villa,2,3,4.9,49,0.0,569,217,a,2026-10-22T20:57:37.509750
-54,Gomes,Joao,Gomes,Aston Villa,2,3,5.5,55,0.1,558,200,a,2026-10-22T20:57:37.509750
-56,Abraham,Tammy,Abraham,Aston Villa,2,4,5.5,55,0.2,854,1470,a,2026-10-22T20:57:37.509750
-160,Garnacho,Alejandro,Garnacho Ferreyra,Aston Villa,2,3,5.7,57,0.3,315,1203,a,2026-10-22T20:57:37.509750
-166,N.Jackson,Nicolas,Jackson,Aston Villa,2,4,6.6,66,4.1,37785,31739,a,2026-10-22T20:57:37.509750
-582,Madjo,Brian,Madjo,Aston Villa,2,4,5.4,54,0.2,630,926,a,2026-10-22T20:57:37.509750
-597,Suzuki,Zion,Suzuki,Aston Villa,2,1,5.0,50,2.0,16702,5088,a,2026-10-22T20:57:37.509750
-606,Rowe,Triston,Rowe,Aston Villa,2,2,4.0,40,0.2,271,420,a,2026-10-22T20:57:37.509750
-618,Goretzka,Leon,Goretzka,Aston Villa,2,3,5.9,59,0.0,268,105,a,2026-10-22T20:57:37.509750
-630,Harwood-Bellis,Taylor,Harwood-Bellis,Aston Villa,2,2,4.5,45,0.0,102,115,a,2026-10-22T20:57:37.509750
-631,Mbaye,Ibrahim,Mbaye,Aston Villa,2,3,6.0,60,0.1,1009,775,a,2026-10-22T20:57:37.509750
-667,Wright,James,Wright,Aston Villa,2,1,4.0,40,0.4,6488,1239,a,2026-10-22T20:57:37.509750
-57,Petrović,Đorđe,Petrović,Bournemouth,3,1,4.5,45,2.8,4851,4920,a,2026-10-22T20:57:37.509750
-58,Forster,Fraser,Forster,Bournemouth,3,1,4.0,40,3.5,4914,4851,a,2026-10-22T20:57:37.509750
-60,Hill,James,Hill,Bournemouth,3,2,5.5,55,0.8,6167,2243,a,2026-10-22T20:57:37.509750
-61,Truffert,Adrien,Truffert,Bournemouth,3,2,5.4,54,2.7,3484,6990,a,2026-10-22T20:57:37.509750
-62,Diakité,Bafodé,Diakité,Bournemouth,3,2,4.9,49,0.1,271,421,a,2026-10-22T20:57:37.509750
-64,Smith,Adam,Smith,Bournemouth,3,2,4.5,45,0.1,474,306,a,2026-10-22T20:57:37.509750
-66,Soler,Julio,Soler Barreto,Bournemouth,3,2,4.0,40,0.2,502,761,a,2026-10-22T20:57:37.509750
-67,Rayan,Rayan Vitor,Simplício Rocha,Bournemouth,3,3,6.3,63,1.5,5794,6681,a,2026-10-22T20:57:37.509750
-68,Tavernier,Marcus,Tavernier,Bournemouth,3,3,6.2,62,10.3,279270,16048,a,2026-10-22T20:57:37.509750
-70,Kluivert,Justin,Kluivert,Bournemouth,3,3,5.9,59,0.6,2639,2264,a,2026-10-22T20:57:37.509750
-71,Cook,Lewis,Cook,Bournemouth,3,3,5.0,50,0.2,285,628,a,2026-10-22T20:57:37.509750
-72,Gannon-Doak,Ben,Gannon-Doak,Bournemouth,3,3,4.8,48,0.1,166,226,a,2026-10-22T20:57:37.509750
-73,Adams,Tyler,Adams,Bournemouth,3,3,5.0,50,0.3,1113,1119,a,2026-10-22T20:57:37.509750
-74,Brooks,David,Brooks,Bournemouth,3,3,5.0,50,0.0,200,273,a,2026-10-22T20:57:37.509750
-75,Christie,Ryan,Christie,Bournemouth,3,3,5.0,50,0.0,371,245,a,2026-10-22T20:57:37.509750
-76,Tóth.A,Alex,Tóth,Bournemouth,3,3,4.9,49,0.0,36,52,a,2026-10-22T20:57:37.509750
-77,Adli,Amine,Adli,Bournemouth,3,3,4.8,48,0.0,235,58,a,2026-10-22T20:57:37.509750
-79,Evanilson,Francisco Evanilson,de Lima Barbosa,Bournemouth,3,4,6.1,61,4.8,95349,12339,a,2026-10-22T20:57:37.509750
-81,Rodríguez,Álvaro,Rodríguez,Bournemouth,3,4,6.0,60,0.1,496,562,a,2026-10-22T20:57:37.509750
-566,Silva,António João,Pereira de Albuquerque Tavares da Silva,Bournemouth,3,2,5.0,50,0.6,4320,1453,a,2026-10-22T20:57:37.509750
-573,Sanchez,Juanlu,Sánchez,Bournemouth,3,2,4.4,44,0.2,129,252,a,2026-10-22T20:57:37.509750
-608,Jebbison,Daniel,Jebbison,Bournemouth,3,4,5.0,50,0.1,393,672,a,2026-10-22T20:57:37.509750
-615,Di Gregorio,Michele,Di Gregorio,Bournemouth,3,1,4.5,45,0.0,160,123,a,2026-10-22T20:57:37.509750
-82,Kelleher,Caoimhín,Kelleher,Brentford,4,1,5.0,50,6.1,20061,12071,a,2026-10-22T20:57:37.509750
-83,Valdimarsson,Hákon Rafn,Valdimarsson,Brentford,4,1,4.4,44,0.1,224,239,a,2026-10-22T20:57:37.509750
-84,Collins,Nathan,Collins,Brentford,4,2,5.4,54,0.8,2118,1299,a,2026-10-22T20:57:37.509750
-85,Van den Berg,Sepp,van den Berg,Brentford,4,2,4.9,49,0.1,800,177,a,2026-10-22T20:57:37.509750
-86,Lewis-Potter,Keane,Lewis-Potter,Brentford,4,3,5.5,55,1.8,33545,4172,a,2026-10-22T20:57:37.509750
-87,Ajer,Kristoffer,Ajer,Brentford,4,2,4.5,45,4.1,28475,7252,a,2026-10-22T20:57:37.509750
-88,Kayode,Michael,Kayode,Brentford,4,2,4.6,46,7.1,9462,19100,a,2026-10-22T20:57:37.509750
-89,Henry,Rico,Henry,Brentford,4,2,4.4,44,0.2,129,385,a,2026-10-22T20:57:37.509750
-90,Hickey,Aaron,Hickey,Brentford,4,2,4.5,45,0.1,116,200,a,2026-10-22T20:57:37.509750
-92,Ji-soo,Kim,Ji-soo,Brentford,4,2,4.4,44,0.0,26,53,a,2026-10-22T20:57:37.509750
-94,Schade,Kevin,Schade,Brentford,4,3,6.2,62,14.2,132255,63008,a,2026-10-22T20:57:37.509750
-95,O.Dango,Dango,Ouattara,Brentford,4,3,6.2,62,0.4,952,1567,a,2026-10-22T20:57:37.509750
-96,Damsgaard,Mikkel,Damsgaard,Brentford,4,3,5.3,53,0.3,928,1187,a,2026-10-22T20:57:37.509750
-97,Jensen,Mathias,Jensen,Brentford,4,3,5.4,54,0.1,160,134,a,2026-10-22T20:57:37.509750
-100,Carvalho,Fábio,Freitas Gouveia Carvalho,Brentford,4,3,5.0,50,0.0,200,172,a,2026-10-22T20:57:37.509750
-105,Anthony,Jaidon,Anthony,Brentford,4,3,5.9,59,0.3,3858,1921,a,2026-10-22T20:57:37.509750
-106,Thiago,Igor Thiago,Nascimento Rodrigues,Brentford,4,4,7.8,78,8.8,21947,41806,a,2026-10-22T20:57:37.509750
-108,Wilson,Callum,Wilson,Brentford,4,4,5.4,54,0.3,544,1520,a,2026-10-22T20:57:37.509750
-565,M.Sangaré,Mamadou,Sangaré,Brentford,4,3,5.5,55,7.1,3851,45187,a,2026-10-22T20:57:37.509750
-620,Diouf,El Hadji Malick,Diouf,Brentford,4,2,4.5,45,0.1,416,582,a,2026-10-22T20:57:37.509750
-657,Nunes,Gustavo,Nunes Fernandes Gomes,Brentford,4,3,4.5,45,0.0,289,186,a,2026-10-22T20:57:37.509750
-660,Fredrick,Benjamin,Fredrick,Brentford,4,2,4.0,40,0.0,242,114,a,2026-10-22T20:57:37.509750
-661,Balcombe,Ellery,Balcombe,Brentford,4,1,4.0,40,0.1,1073,397,a,2026-10-22T20:57:37.509750
-109,Verbruggen,Bart,Verbruggen,Brighton,5,1,4.6,46,22.6,57073,32149,a,2026-10-22T20:57:37.509750
-111,Steele,Jason,Steele,Brighton,5,1,4.0,40,3.8,2363,10969,a,2026-10-22T20:57:37.509750
-113,F.Kadıoğlu,Ferdi,Kadıoğlu,Brighton,5,2,4.4,44,1.7,8598,4254,a,2026-10-22T20:57:37.509750
-114,Boscagli,Olivier,Boscagli,Brighton,5,2,4.5,45,0.5,11850,1101,a,2026-10-22T20:57:37.509750
-115,De Cuyper,Maxim,De Cuyper,Brighton,5,2,5.3,53,41.4,205122,19360,a,2026-10-22T20:57:37.509750
-116,Dunk,Lewis,Dunk,Brighton,5,2,4.5,45,1.5,4008,4004,a,2026-10-22T20:57:37.509750
-117,Coppola,Diego,Coppola,Brighton,5,2,4.5,45,0.0,56,62,a,2026-10-22T20:57:37.509750
-119,Costinha,João Pedro,Loureiro da Costa,Brighton,5,2,4.5,45,0.0,130,133,a,2026-10-22T20:57:37.509750
-120,Svoboda,Michael,Svoboda,Brighton,5,2,5.0,50,0.1,364,346,a,2026-10-22T20:57:37.509750
-123,Hinshelwood,Jack,Hinshelwood,Brighton,5,3,5.9,59,0.6,6997,1295,a,2026-10-22T20:57:37.509750
-124,Groß,Pascal,Groß,Brighton,5,3,6.2,62,45.7,228861,30461,a,2026-10-22T20:57:37.509750
-125,Georginio,Georginio,Rutter,Brighton,5,4,5.3,53,0.5,1990,3818,a,2026-10-22T20:57:37.509750
-126,O'Riley,Matt,O'Riley,Brighton,5,3,5.4,54,0.1,312,403,a,2026-10-22T20:57:37.509750
-127,Gomez,Diego,Gómez Amarilla,Brighton,5,3,5.0,50,3.9,43612,9851,a,2026-10-22T20:57:37.509750
-129,Ayari,Yasin,Ayari,Brighton,5,3,5.4,54,0.6,18473,1625,a,2026-10-22T20:57:37.509750
-134,Oriola,Nehemiah,Oriola,Brighton,5,3,4.4,44,0.2,543,846,a,2026-10-22T20:57:37.509750
-138,Kostoulas,Charalampos,Kostoulas,Brighton,5,4,5.7,57,9.9,121835,35685,a,2026-10-22T20:57:37.509750
-504,Vuskovic,Luka,Vušković,Brighton,5,2,5.1,51,5.9,97409,9972,a,2026-10-22T20:57:37.509750
-594,David,Promise,David,Brighton,5,4,5.9,59,0.2,1201,1564,a,2026-10-22T20:57:37.509750
-600,Osman,Ibrahim,Osman,Brighton,5,3,4.9,49,0.0,78,62,a,2026-10-22T20:57:37.509750
-605,Yalcouyé,Malick,Yalcouyé,Brighton,5,3,4.5,45,3.4,9458,30768,a,2026-10-22T20:57:37.509750
-614,Hadjam,Jaouen,Hadjam,Brighton,5,2,4.5,45,0.1,286,237,a,2026-10-22T20:57:37.509750
-639,Andrés,José María,Andrés Baixauli,Brighton,5,3,5.5,55,0.1,1193,892,a,2026-10-22T20:57:37.509750
-658,Ibrahim,Younes,Ibrahim,Brighton,5,3,4.5,45,0.0,290,156,a,2026-10-22T20:57:37.509750
-40,Rogers,Morgan,Rogers,Chelsea,6,3,8.0,80,48.5,196077,39730,a,2026-10-22T20:57:37.509750
-101,Henderson,Jordan,Henderson,Chelsea,6,3,4.9,49,1.2,39476,5927,a,2026-10-22T20:57:37.509750
-136,Welbeck,Danny,Welbeck,Chelsea,6,4,5.8,58,0.8,961,5798,a,2026-10-22T20:57:37.509750
-145,Fofana,Wesley,Fofana,Chelsea,6,2,5.0,50,0.2,918,1695,a,2026-10-22T20:57:37.509750
-148,Hato,Jorrel,Hato,Chelsea,6,2,4.5,45,0.7,8947,1533,a,2026-10-22T20:57:37.509750
-149,Colwill,Levi,Samuels Colwill,Chelsea,6,2,4.8,48,0.8,3943,1947,a,2026-10-22T20:57:37.509750
-151,Acheampong,Josh,Acheampong,Chelsea,6,2,4.5,45,0.3,2994,659,a,2026-10-22T20:57:37.509750
-152,Palestra,Marco,Palestra,Chelsea,6,2,5.3,53,0.5,604,2159,a,2026-10-22T20:57:37.509750
-154,Palmer,Cole,Palmer,Chelsea,6,3,9.7,97,27.0,154345,51340,a,2026-10-22T20:57:37.509750
-156,Neto,Pedro,Lomba Neto,Chelsea,6,3,6.5,65,2.8,143774,5385,a,2026-10-22T20:57:37.509750
-157,Estêvão,Estêvão,Almeida de Oliveira Gonçalves,Chelsea,6,3,6.3,63,0.7,1050,2896,a,2026-10-22T20:57:37.509750
-159,Caicedo,Moisés,Caicedo Corozo,Chelsea,6,3,5.3,53,1.1,4695,2150,a,2026-10-22T20:57:37.509750
-161,Lavia,Roméo,Lavia,Chelsea,6,3,5.0,50,0.2,184,1324,a,2026-10-22T20:57:37.509750
-164,Quenda,Geovany,Quenda,Chelsea,6,3,5.3,53,0.0,21,102,a,2026-10-22T20:57:37.509750
-165,João Pedro,João Pedro,Junqueira de Jesus,Chelsea,6,4,7.9,79,73.1,128392,30411,a,2026-10-22T20:57:37.509750
-169,Mheuka,Shumaira,Mheuka,Chelsea,6,4,4.5,45,0.5,1139,2699,a,2026-10-22T20:57:37.509750
-200,Lacroix,Maxence,Lacroix,Chelsea,6,2,5.9,59,6.3,13936,12802,a,2026-10-22T20:57:37.509750
-560,Penders,Mike,Penders,Chelsea,6,1,4.4,44,0.2,10795,738,a,2026-10-22T20:57:37.509750
-561,Anselmino,Aaron,Anselmino,Chelsea,6,2,4.5,45,0.0,56,58,a,2026-10-22T20:57:37.509750
-568,Barco,Valentín,Barco,Chelsea,6,3,5.4,54,0.1,70,347,a,2026-10-22T20:57:37.509750
-662,Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,Chelsea,6,3,4.5,45,0.0,130,78,a,2026-10-22T20:57:37.509750
-91,Pinnock,Ethan,Pinnock,Coventry City,7,2,4.5,45,0.1,764,275,a,2026-10-22T20:57:37.509750
-104,Onyeka,Frank,Onyeka,Coventry City,7,3,4.8,48,0.1,158,328,a,2026-10-22T20:57:37.509750
-110,Rushworth,Carl,Rushworth,Coventry City,7,1,4.5,45,0.9,7124,2208,a,2026-10-22T20:57:37.509750
-172,Wilson,Ben,Wilson,Coventry City,7,1,4.4,44,0.3,137,389,a,2026-10-22T20:57:37.509750
-173,Thomas,Bobby,Thomas,Coventry City,7,2,4.0,40,9.4,37043,11196,a,2026-10-22T20:57:37.509750
-175,van Ewijk,Milan,van Ewijk,Coventry City,7,2,3.9,39,7.4,14919,16593,a,2026-10-22T20:57:37.509750
-176,Dasilva,Jay,Dasilva,Coventry City,7,2,4.0,40,1.5,18183,4418,a,2026-10-22T20:57:37.509750
-177,Kesler-Hayden,Kaine,Kesler-Hayden,Coventry City,7,2,3.9,39,0.1,403,175,a,2026-10-22T20:57:37.509750
-178,Bidwell,Jake,Bidwell,Coventry City,7,2,4.0,40,0.1,178,187,a,2026-10-22T20:57:37.509750
-179,Latibeaudiere,Joel,Latibeaudiere,Coventry City,7,2,3.9,39,0.0,531,139,a,2026-10-22T20:57:37.509750
-183,Rudoni,Jack,Rudoni,Coventry City,7,3,4.9,49,0.4,18488,1227,a,2026-10-22T20:57:37.509750
-184,Grimes,Matt,Grimes,Coventry City,7,3,4.8,48,0.1,592,457,a,2026-10-22T20:57:37.509750
-185,Sakamoto,Tatsuhiro,Sakamoto,Coventry City,7,3,4.8,48,0.1,219,194,a,2026-10-22T20:57:37.509750
-186,Mason-Clark,Ephron,Mason-Clark,Coventry City,7,3,5.3,53,0.1,125,232,a,2026-10-22T20:57:37.509750
-188,Torp,Victor,Torp,Coventry City,7,3,5.3,53,0.1,25,191,a,2026-10-22T20:57:37.509750
-189,Shepherd,George,Shepherd,Coventry City,7,3,4.4,44,0.2,605,959,a,2026-10-22T20:57:37.509750
-190,Tchaouna,Loum,Tchaouna,Coventry City,7,3,5.3,53,0.1,24,175,a,2026-10-22T20:57:37.509750
-194,Thomas-Asante,Brandon,Thomas-Asante,Coventry City,7,4,5.0,50,1.0,10415,5334,a,2026-10-22T20:57:37.509750
-195,Simms,Ellis,Simms,Coventry City,7,4,4.9,49,0.7,4362,4138,a,2026-10-22T20:57:37.509750
-492,Awoniyi,Taiwo,Awoniyi,Coventry City,7,4,5.4,54,0.3,637,1176,a,2026-10-22T20:57:37.509750
-575,Yirenkyi,Caleb,Yirenkyi,Coventry City,7,3,4.8,48,0.1,767,619,a,2026-10-22T20:57:37.509750
-584,Hamer,Gustavo,Hamer,Coventry City,7,3,5.3,53,0.1,28,197,a,2026-10-22T20:57:37.509750
-599,Cherif,Sidiki,Cherif,Coventry City,7,4,5.0,50,0.4,8303,2703,a,2026-10-22T20:57:37.509750
-623,Bentley,Dan,Bentley,Coventry City,7,1,4.0,40,1.0,1711,830,a,2026-10-22T20:57:37.509750
-655,Gboho,Yann,Gboho,Coventry City,7,3,5.5,55,0.0,90,50,a,2026-10-22T20:57:37.509750
-656,Mfuni,Stephen,Mfuni,Coventry City,7,2,4.0,40,0.2,1532,706,a,2026-10-22T20:57:37.509750
-42,Guessand,Evann,Guessand,Crystal Palace,8,3,5.4,54,0.0,80,166,a,2026-10-22T20:57:37.509750
-153,Disasi,Axel,Disasi,Crystal Palace,8,2,4.4,44,0.1,138,173,a,2026-10-22T20:57:37.509750
-199,Benitez,Walter,Benítez,Crystal Palace,8,1,4.5,45,0.1,761,398,a,2026-10-22T20:57:37.509750
-202,Richards,Chris,Richards,Crystal Palace,8,2,4.9,49,0.6,1549,1859,a,2026-10-22T20:57:37.509750
-203,Canvot,Jaydee,Canvot,Crystal Palace,8,2,4.8,48,0.2,340,782,a,2026-10-22T20:57:37.509750
-204,Mitchell,Tyrick,Mitchell,Crystal Palace,8,2,4.5,45,5.6,3745,21920,a,2026-10-22T20:57:37.509750
-207,Mingueza,Oscar,Mingueza,Crystal Palace,8,2,4.3,43,0.1,147,207,a,2026-10-22T20:57:37.509750
-208,Sarr,Ismaïla,Sarr,Crystal Palace,8,3,6.2,62,0.6,1223,2351,a,2026-10-22T20:57:37.509750
-210,Wharton,Adam,Wharton,Crystal Palace,8,3,5.4,54,0.7,965,2494,a,2026-10-22T20:57:37.509750
-211,Yeremy,Yéremy,Pino Santos,Crystal Palace,8,3,5.5,55,0.3,1707,1866,a,2026-10-22T20:57:37.509750
-212,Hughes,Will,Hughes,Crystal Palace,8,3,4.3,43,6.1,10057,24904,a,2026-10-22T20:57:37.509750
-213,Lerma,Jefferson,Lerma Solís,Crystal Palace,8,3,4.8,48,0.1,1468,351,a,2026-10-22T20:57:37.509750
-214,Kamada,Daichi,Kamada,Crystal Palace,8,3,5.0,50,0.7,6621,3486,a,2026-10-22T20:57:37.509750
-218,Doucouré,Cheick,Doucouré,Crystal Palace,8,3,4.8,48,0.0,97,173,a,2026-10-22T20:57:37.509750
-221,Drakes-Thomas,Joél,Drakes-Thomas,Crystal Palace,8,3,4.4,44,0.1,145,228,a,2026-10-22T20:57:37.509750
-222,Strand Larsen,Jørgen,Strand Larsen,Crystal Palace,8,4,6.0,60,0.6,1483,5011,a,2026-10-22T20:57:37.509750
-223,Mateta,Jean-Philippe,Mateta,Crystal Palace,8,4,6.3,63,1.2,2138,2203,a,2026-10-22T20:57:37.509750
-224,Nketiah,Eddie,Nketiah,Crystal Palace,8,4,5.4,54,0.4,669,2555,a,2026-10-22T20:57:37.509750
-241,McNeil,Dwight,McNeil,Crystal Palace,8,3,5.3,53,0.1,55,251,a,2026-10-22T20:57:37.509750
-555,Matthews,Remi,Matthews,Crystal Palace,8,1,4.0,40,1.6,486,1691,a,2026-10-22T20:57:37.509750
-588,Khalaili,Anan,Khalaili,Crystal Palace,8,2,5.0,50,0.3,590,1314,a,2026-10-22T20:57:37.509750
-595,Gozo,Zavier,Gozo,Crystal Palace,8,3,4.9,49,0.0,27,62,a,2026-10-22T20:57:37.509750
-633,Ahanor,Honest,Ahanor,Crystal Palace,8,2,4.5,45,0.0,60,83,a,2026-10-22T20:57:37.509750
-643,Chilwell,Ben,Chilwell,Crystal Palace,8,2,4.4,44,0.3,33,4089,a,2026-10-22T20:57:37.509750
-647,Osorio,Darío,Osorio,Crystal Palace,8,3,5.4,54,0.0,11,37,a,2026-10-22T20:57:37.509750
-21,Nørgaard,Christian,Nørgaard,Everton,9,3,4.8,48,0.0,320,147,a,2026-10-22T20:57:37.509750
-209,Johnson,Brennan,Johnson,Everton,9,3,5.9,59,0.1,184,659,a,2026-10-22T20:57:37.509750
-226,Pickford,Jordan,Pickford,Everton,9,1,5.5,55,8.7,7701,24171,a,2026-10-22T20:57:37.509750
-227,Travers,Mark,Travers,Everton,9,1,5.0,50,0.0,271,192,a,2026-10-22T20:57:37.509750
-228,King,Tom,King,Everton,9,1,4.5,45,0.0,114,112,a,2026-10-22T20:57:37.509750
-229,Tarkowski,James,Tarkowski,Everton,9,2,6.2,62,18.3,48225,64011,a,2026-10-22T20:57:37.509750
-230,Branthwaite,Jarrad,Branthwaite,Everton,9,2,5.5,55,2.4,6445,10130,a,2026-10-22T20:57:37.509750
-231,Keane,Michael,Keane,Everton,9,2,4.7,47,0.6,288,2429,a,2026-10-22T20:57:37.509750
-232,O'Brien,Jake,O'Brien,Everton,9,2,4.8,48,0.3,168,768,a,2026-10-22T20:57:37.509750
-233,Mykolenko,Vitalii,Mykolenko,Everton,9,2,4.6,46,2.7,3455,9988,a,2026-10-22T20:57:37.509750
-236,Dewsbury-Hall,Kiernan,Dewsbury-Hall,Everton,9,3,6.6,66,6.1,27954,33872,a,2026-10-22T20:57:37.509750
-238,Grealish,Jack,Grealish,Everton,9,3,6.5,65,0.5,2209,3230,a,2026-10-22T20:57:37.509750
-239,Garner,James,Garner,Everton,9,3,6.0,60,0.2,1056,1699,a,2026-10-22T20:57:37.509750
-242,George,Tyrique,George,Everton,9,3,5.5,55,0.6,540,6750,a,2026-10-22T20:57:37.509750
-243,Alcaraz,Carlos,Alcaraz Durán,Everton,9,3,4.8,48,0.1,119,247,a,2026-10-22T20:57:37.509750
-244,Armstrong,Harrison,Armstrong,Everton,9,3,5.0,50,0.3,646,2136,a,2026-10-22T20:57:37.509750
-245,Dibling,Tyler,Dibling,Everton,9,3,5.3,53,0.0,46,109,a,2026-10-22T20:57:37.509750
-246,Röhl,Merlin,Röhl,Everton,9,3,4.9,49,0.0,130,95,a,2026-10-22T20:57:37.509750
-247,Hackney,Hayden,Hackney,Everton,9,3,5.4,54,0.2,59,750,a,2026-10-22T20:57:37.509750
-249,Barry,Thierno,Barry,Everton,9,4,5.7,57,8.2,14209,73288,a,2026-10-22T20:57:37.509750
-649,Maitland-Niles,Ainsley,Maitland-Niles,Everton,9,2,4.5,45,1.5,2202,6071,a,2026-10-22T20:57:37.509750
-654,Graham,Braiden,Graham,Everton,9,3,4.5,45,0.1,262,418,a,2026-10-22T20:57:37.509750
-250,Leno,Bernd,Leno,Fulham,10,1,4.5,45,4.3,23535,5280,a,2026-10-22T20:57:37.509750
-251,Lecomte,Benjamin,Lecomte,Fulham,10,1,4.0,40,1.1,884,1423,a,2026-10-22T20:57:37.509750
-253,Andersen,Joachim,Andersen,Fulham,10,2,5.0,50,0.2,1183,1284,a,2026-10-22T20:57:37.509750
-254,Robinson,Antonee,Robinson,Fulham,10,2,4.4,44,1.3,4357,2137,a,2026-10-22T20:57:37.509750
-255,J.Cuenca,Jorge,Cuenca Barreno,Fulham,10,2,4.4,44,0.0,66,96,a,2026-10-22T20:57:37.509750
-256,Tete,Kenny,Tete,Fulham,10,2,4.4,44,0.2,111,384,a,2026-10-22T20:57:37.509750
-257,Bassey,Calvin,Bassey,Fulham,10,2,4.5,45,1.1,8707,2243,a,2026-10-22T20:57:37.509750
-258,Castagne,Timothy,Castagne,Fulham,10,2,4.5,45,1.2,5028,2004,a,2026-10-22T20:57:37.509750
-261,Iwobi,Alex,Iwobi,Fulham,10,3,5.4,54,1.2,39115,2755,a,2026-10-22T20:57:37.509750
-262,Smith Rowe,Emile,Smith Rowe,Fulham,10,3,5.3,53,0.2,197,843,a,2026-10-22T20:57:37.509750
-263,Kevin,Kevin,Santos Lopes de Macedo,Fulham,10,3,5.3,53,0.0,76,210,a,2026-10-22T20:57:37.509750
-264,Bobb,Oscar,Bobb,Fulham,10,3,5.5,55,0.3,1710,1615,a,2026-10-22T20:57:37.509750
-265,Berge,Sander,Berge,Fulham,10,3,4.9,49,0.3,1334,732,a,2026-10-22T20:57:37.509750
-266,Cairney,Tom,Cairney,Fulham,10,3,4.9,49,0.0,31,16,a,2026-10-22T20:57:37.509750
-268,King,Josh,King,Fulham,10,3,5.6,56,4.7,11692,26803,a,2026-10-22T20:57:37.509750
-270,Reed,Harrison,Reed,Fulham,10,3,4.4,44,1.0,1067,3823,a,2026-10-22T20:57:37.509750
-271,Muniz,Rodrigo,Muniz Carvalho,Fulham,10,4,5.3,53,0.4,738,2339,a,2026-10-22T20:57:37.509750
-272,Kusi-Asare,Jonah,Kusi-Asare,Fulham,10,4,4.4,44,4.9,16017,28131,a,2026-10-22T20:57:37.509750
-569,Gonzalo,Gonzalo,García,Fulham,10,4,6.1,61,6.8,8067,54008,a,2026-10-22T20:57:37.509750
-570,Palacios,César,Palacios,Fulham,10,3,5.3,53,0.1,87,694,a,2026-10-22T20:57:37.509750
-580,Charles,Shea,Charles,Fulham,10,3,5.0,50,0.1,641,463,a,2026-10-22T20:57:37.509750
-626,Zepa,Macaulay,Zepa,Fulham,10,3,4.4,44,0.4,5102,2688,a,2026-10-22T20:57:37.509750
-636,Ángel,Manuel Ángel,Morán Ibáñez,Fulham,10,3,5.0,50,0.0,36,24,a,2026-10-22T20:57:37.509750
-650,Affengruber,David,Affengruber,Fulham,10,2,4.5,45,0.7,2679,1514,a,2026-10-22T20:57:37.509750
-240,Iroegbunam,Tim,Iroegbunam,Hull City,11,3,5.0,50,0.0,59,76,a,2026-10-22T20:57:37.509750
-273,Phillips,Dillon,Phillips,Hull City,11,1,4.0,40,1.4,859,1960,a,2026-10-22T20:57:37.509750
-277,Egan,John,Egan,Hull City,11,2,4.1,41,7.2,15891,16270,a,2026-10-22T20:57:37.509750
-279,Ajayi,Semi,Ajayi,Hull City,11,2,4.2,42,13.3,12073,47184,a,2026-10-22T20:57:37.509750
-280,Coyle,Lewie,Coyle,Hull City,11,2,4.0,40,0.6,1043,1583,a,2026-10-22T20:57:37.509750
-282,Giles,Ryan,Giles,Hull City,11,2,4.0,40,2.9,3108,10963,a,2026-10-22T20:57:37.509750
-284,McCarthy,Cathal,McCarthy,Hull City,11,2,4.0,40,0.1,233,333,a,2026-10-22T20:57:37.509750
-285,McNair,Paddy,McNair,Hull City,11,2,4.0,40,0.1,129,284,a,2026-10-22T20:57:37.509750
-286,Belloumi,Mohamed,Belloumi,Hull City,11,3,5.2,52,9.1,62200,33118,a,2026-10-22T20:57:37.509750
-288,Dowell,Kieran,Dowell,Hull City,11,3,4.4,44,0.3,391,1027,a,2026-10-22T20:57:37.509750
-289,Crooks,Matt,Crooks,Hull City,11,3,4.4,44,0.6,6905,2858,a,2026-10-22T20:57:37.509750
-290,Slater,Regan,Slater,Hull City,11,3,4.5,45,4.9,13524,22986,a,2026-10-22T20:57:37.509750
-292,Ömür,Abdülkadir,Ömür,Hull City,11,3,4.9,49,0.0,41,81,a,2026-10-22T20:57:37.509750
-294,Zambrano,Óscar,Zambrano,Hull City,11,3,4.5,45,0.1,136,269,a,2026-10-22T20:57:37.509750
-295,McBurnie,Oli,McBurnie,Hull City,11,4,5.5,55,1.6,2812,15076,a,2026-10-22T20:57:37.509750
-340,Gelhardt,Joe,Gelhardt,Hull City,11,3,5.0,50,0.0,424,309,a,2026-10-22T20:57:37.509750
-563,Morita,Hidemasa,Morita,Hull City,11,3,4.9,49,0.0,64,40,a,2026-10-22T20:57:37.509750
-572,Tzolakis,Konstantinos,Tzolakis,Hull City,11,1,4.7,47,14.1,37669,22365,a,2026-10-22T20:57:37.509750
-574,Hjertø-Dahl,Jens,Hjertø-Dahl,Hull City,11,3,4.8,48,0.0,77,189,a,2026-10-22T20:57:37.509750
-576,Stroud,Elliot,Stroud,Hull City,11,3,4.9,49,0.1,146,329,a,2026-10-22T20:57:37.509750
-585,Herrington,Lucas,Herrington,Hull City,11,2,4.0,40,0.5,321,1366,a,2026-10-22T20:57:37.509750
-638,Norton-Cuffy,Brooke,Norton-Cuffy,Hull City,11,2,3.9,39,0.3,4015,862,a,2026-10-22T20:57:37.509750
-642,Thomas,Sorba,Thomas,Hull City,11,3,5.5,55,0.0,521,513,a,2026-10-22T20:57:37.509750
-645,Mouzakitis,Christos,Mouzakitis,Hull City,11,3,5.0,50,0.0,45,45,a,2026-10-22T20:57:37.509750
-259,Diop,Issa,Diop,Ipswich Town,12,2,3.9,39,11.0,14165,23998,a,2026-10-22T20:57:37.509750
-300,Walton,Christian,Walton,Ipswich Town,12,1,4.4,44,0.5,2568,1104,a,2026-10-22T20:57:37.509750
-301,Palmer,Alex,Palmer,Ipswich Town,12,1,4.0,40,3.7,2053,6191,a,2026-10-22T20:57:37.509750
-302,Button,David,Button,Ipswich Town,12,1,4.0,40,0.6,427,769,a,2026-10-22T20:57:37.509750
-303,Kipré,Cédric,Kipré,Ipswich Town,12,2,3.9,39,0.8,462,2390,a,2026-10-22T20:57:37.509750
-304,O'Shea,Dara,O'Shea,Ipswich Town,12,2,4.0,40,2.7,14646,4310,a,2026-10-22T20:57:37.509750
-305,Davis,Leif,Davis,Ipswich Town,12,2,4.0,40,7.4,8485,19550,a,2026-10-22T20:57:37.509750
-306,Greaves,Jacob,Greaves,Ipswich Town,12,2,3.9,39,1.1,1671,2685,a,2026-10-22T20:57:37.509750
-308,Furlong,Darnell,Furlong,Ipswich Town,12,2,3.9,39,0.6,467,1540,a,2026-10-22T20:57:37.509750
-309,Núñez,Marcelino,Núñez,Ipswich Town,12,3,4.8,48,0.1,116,317,a,2026-10-22T20:57:37.509750
-310,Matusiwa,Azor,Matusiwa,Ipswich Town,12,3,4.9,49,0.0,22,14,a,2026-10-22T20:57:37.509750
-312,Taylor,Jack,Taylor,Ipswich Town,12,3,4.4,44,0.0,563,300,a,2026-10-22T20:57:37.509750
-313,Clarke,Jack,Clarke,Ipswich Town,12,3,5.3,53,0.2,183,516,a,2026-10-22T20:57:37.509750
-315,Fatawu,Abdul,Fatawu,Ipswich Town,12,3,5.4,54,0.1,242,275,a,2026-10-22T20:57:37.509750
-316,Emersonn,Emersonn,Correia da Silva,Ipswich Town,12,4,5.6,56,3.6,12006,27617,a,2026-10-22T20:57:37.509750
-318,Philogene,Jaden,Philogene,Ipswich Town,12,3,5.4,54,0.1,27,94,a,2026-10-22T20:57:37.509750
-320,Akpom,Chuba,Akpom,Ipswich Town,12,4,5.0,50,1.0,1190,7066,a,2026-10-22T20:57:37.509750
-321,Walle Egeli,Sindre,Walle Egeli,Ipswich Town,12,4,4.5,45,3.3,5749,22392,a,2026-10-22T20:57:37.509750
-323,McAteer,Kasey,McAteer,Ipswich Town,12,3,4.4,44,0.9,1375,3693,a,2026-10-22T20:57:37.509750
-324,Mehmeti,Anis,Mehmeti,Ipswich Town,12,3,4.8,48,0.0,11,82,a,2026-10-22T20:57:37.509750
-562,Maeda,Daizen,Maeda,Ipswich Town,12,3,5.3,53,0.2,1771,414,a,2026-10-22T20:57:37.509750
-564,Scherpen,Kjell,Scherpen,Ipswich Town,12,1,4.5,45,0.5,193,1616,a,2026-10-22T20:57:37.509750
-571,Florentino,Florentino Ibrain,Morris Luís,Ipswich Town,12,3,4.8,48,0.1,228,188,a,2026-10-22T20:57:37.509750
-591,Enciso,Julio,Enciso,Ipswich Town,12,3,5.5,55,0.7,2835,4031,a,2026-10-22T20:57:37.509750
-592,Ouattara,Abdoul,Ouattara,Ipswich Town,12,2,4.0,40,1.0,5102,1278,a,2026-10-22T20:57:37.509750
-619,Palacios,Exequiel,Palacios,Ipswich Town,12,3,5.0,50,0.1,458,326,a,2026-10-22T20:57:37.509750
-640,Flemming,Zian,Flemming,Ipswich Town,12,4,5.5,55,0.1,2058,727,a,2026-10-22T20:57:37.509750
-260,Wilson,Harry,Wilson,Leeds,13,3,6.2,62,1.3,938,5448,a,2026-10-22T20:57:37.509750
-327,Bijol,Jaka,Bijol,Leeds,13,2,5.0,50,0.6,740,2750,a,2026-10-22T20:57:37.509750
-330,Bogle,Jayden,Bogle,Leeds,13,2,4.7,47,10.3,103180,19436,a,2026-10-22T20:57:37.509750
-331,Gudmundsson,Gabriel,Gudmundsson,Leeds,13,2,4.5,45,0.1,1193,353,a,2026-10-22T20:57:37.509750
-332,Justin,James,Justin,Leeds,13,2,4.5,45,2.1,21760,4280,a,2026-10-22T20:57:37.509750
-334,Muharemović,Tarik,Muharemović,Leeds,13,2,5.0,50,5.0,39904,4714,a,2026-10-22T20:57:37.509750
-335,Stach,Anton,Stach,Leeds,13,3,6.0,60,2.3,7072,9268,a,2026-10-22T20:57:37.509750
-336,Okafor,Noah,Okafor,Leeds,13,3,5.8,58,0.4,2930,2686,a,2026-10-22T20:57:37.509750
-337,Aaronson,Brenden,Aaronson,Leeds,13,3,5.3,53,0.4,156,1547,a,2026-10-22T20:57:37.509750
-338,Ampadu,Ethan,Ampadu,Leeds,13,3,5.4,54,0.8,1093,3700,a,2026-10-22T20:57:37.509750
-339,Longstaff,Sean,Longstaff,Leeds,13,3,4.8,48,0.1,227,335,a,2026-10-22T20:57:37.509750
-344,Gruev,Ilia,Gruev,Leeds,13,3,5.0,50,0.0,56,18,a,2026-10-22T20:57:37.509750
-345,Tanaka,Tanaka,Ao,Leeds,13,3,4.9,49,0.3,1606,1508,a,2026-10-22T20:57:37.509750
-346,Calvert-Lewin,Dominic,Calvert-Lewin,Leeds,13,4,6.1,61,23.6,153973,51971,a,2026-10-22T20:57:37.509750
-347,Nmecha,Lukas,Nmecha,Leeds,13,4,5.3,53,0.4,893,2439,a,2026-10-22T20:57:37.509750
-385,Trafford,James,Trafford,Leeds,13,1,5.0,50,5.9,29511,9801,a,2026-10-22T20:57:37.509750
-598,Elvedi,Nico,Elvedi,Leeds,13,2,4.5,45,0.1,249,126,a,2026-10-22T20:57:37.509750
-603,Lienou,Jayden,Lienou,Leeds,13,2,4.0,40,0.1,114,255,a,2026-10-22T20:57:37.509750
-604,Cresswell,Alfie,Cresswell,Leeds,13,3,4.5,45,0.1,477,526,a,2026-10-22T20:57:37.509750
-625,Cairns,Alex,Cairns,Leeds,13,1,4.0,40,0.2,389,328,a,2026-10-22T20:57:37.509750
-629,Zetterer,Michael,Zetterer,Leeds,13,1,4.0,40,0.7,2304,1385,a,2026-10-22T20:57:37.509750
-641,Bard,Melvin,Bard,Leeds,13,2,4.5,45,0.0,78,54,a,2026-10-22T20:57:37.509750
-648,Bahoya,Jean-Mattéo,Bahoya,Leeds,13,3,4.9,49,0.0,61,78,a,2026-10-22T20:57:37.509750
-350,A.Becker,Alisson,Becker,Liverpool,14,1,5.5,55,4.2,7072,12584,a,2026-10-22T20:57:37.509750
-351,Mamardashvili,Giorgi,Mamardashvili,Liverpool,14,1,4.8,48,0.1,239,345,a,2026-10-22T20:57:37.509750
-352,Woodman,Freddie,Woodman,Liverpool,14,1,4.0,40,1.0,642,1417,a,2026-10-22T20:57:37.509750
-355,Davies,Harvey,Davies,Liverpool,14,1,4.0,40,0.2,202,294,a,2026-10-22T20:57:37.509750
-356,Virgil,Virgil,van Dijk,Liverpool,14,2,6.4,64,15.2,14307,39604,a,2026-10-22T20:57:37.509750
-358,Kerkez,Milos,Kerkez,Liverpool,14,2,5.3,53,2.0,2229,6258,a,2026-10-22T20:57:37.509750
-359,Gomez,Joe,Gomez,Liverpool,14,2,4.9,49,0.0,354,140,a,2026-10-22T20:57:37.509750
-361,Lucky,Wellity,Lucky,Liverpool,14,2,4.0,40,0.1,220,367,a,2026-10-22T20:57:37.509750
-362,Jacquet,Jeremy,Jacquet,Liverpool,14,2,5.1,51,4.1,30619,9648,a,2026-10-22T20:57:37.509750
-364,Tsimikas,Kostas,Tsimikas,Liverpool,14,2,4.9,49,0.1,276,276,a,2026-10-22T20:57:37.509750
-366,Wirtz,Florian,Wirtz,Liverpool,14,3,7.2,72,5.1,21122,13645,a,2026-10-22T20:57:37.509750
-367,Gakpo,Cody,Gakpo,Liverpool,14,3,7.1,71,6.5,25762,31771,a,2026-10-22T20:57:37.509750
-369,Ngumoha,Rio,Ngumoha,Liverpool,14,3,5.7,57,0.5,5127,1897,a,2026-10-22T20:57:37.509750
-370,Chiesa,Federico,Chiesa,Liverpool,14,3,5.3,53,0.0,130,97,a,2026-10-22T20:57:37.509750
-371,Gravenberch,Ryan,Gravenberch,Liverpool,14,3,5.8,58,0.9,2330,3354,a,2026-10-22T20:57:37.509750
-372,Mac Allister,Alexis,Mac Allister,Liverpool,14,3,5.4,54,1.3,6004,5430,a,2026-10-22T20:57:37.509750
-374,Endo,Endo,Wataru,Liverpool,14,3,4.8,48,0.1,119,219,a,2026-10-22T20:57:37.509750
-375,Nyoni,Trey,Nyoni,Liverpool,14,3,4.8,48,0.0,493,260,a,2026-10-22T20:57:37.509750
-378,McConnell,James,McConnell,Liverpool,14,3,4.4,44,0.2,374,718,a,2026-10-22T20:57:37.509750
-379,Isak,Alexander,Isak,Liverpool,14,4,9.0,90,13.3,151206,25867,a,2026-10-22T20:57:37.509750
-381,Koumas,Lewis,Koumas,Liverpool,14,3,5.0,50,0.1,737,1633,a,2026-10-22T20:57:37.509750
-382,Danns,Jayden,Danns,Liverpool,14,4,4.5,45,0.3,1269,1865,a,2026-10-22T20:57:37.509750
-579,Araujo,Ronald,Araujo,Liverpool,14,2,5.4,54,3.2,12039,12692,a,2026-10-22T20:57:37.509750
-627,Barcola,Bradley,Barcola,Liverpool,14,3,8.0,80,3.3,61165,14577,a,2026-10-22T20:57:37.509750
-155,Enzo,Enzo,Fernández,Man City,15,3,6.9,69,4.0,14990,21839,a,2026-10-22T20:57:37.509750
-237,Ndiaye,Iliman,Ndiaye,Man City,15,3,5.8,58,5.4,19254,21139,a,2026-10-22T20:57:37.509750
-384,Donnarumma,Gianluigi,Donnarumma,Man City,15,1,5.5,55,7.7,17734,22985,a,2026-10-22T20:57:37.509750
-386,Bettinelli,Marcus,Bettinelli,Man City,15,1,4.4,44,0.0,52,77,a,2026-10-22T20:57:37.509750
-388,Guéhi,Marc,Guéhi,Man City,15,2,6.0,60,17.7,25244,47147,a,2026-10-22T20:57:37.509750
-390,Rúben,Rúben,dos Santos Gato Alves Dias,Man City,15,2,5.5,55,2.0,7729,6150,a,2026-10-22T20:57:37.509750
-391,Gvardiol,Joško,Gvardiol,Man City,15,2,5.8,58,28.0,41694,135653,a,2026-10-22T20:57:37.509750
-392,Aït-Nouri,Rayan,Aït-Nouri,Man City,15,2,5.2,52,0.4,344,1178,a,2026-10-22T20:57:37.509750
-393,Khusanov,Abdukodir,Khusanov,Man City,15,2,5.3,53,1.2,1041,4138,a,2026-10-22T20:57:37.509750
-395,Lewis,Rico,Lewis,Man City,15,2,4.3,43,0.2,567,669,a,2026-10-22T20:57:37.509750
-396,Vitor Reis,Vitor,de Oliveira Nunes dos Reis,Man City,15,2,4.4,44,0.0,38,71,a,2026-10-22T20:57:37.509750
-398,Foden,Phil,Foden,Man City,15,3,6.8,68,2.1,63159,3347,a,2026-10-22T20:57:37.509750
-399,Cherki,Rayan,Cherki,Man City,15,3,8.0,80,38.3,268027,104738,a,2026-10-22T20:57:37.509750
-400,Doku,Jérémy,Doku,Man City,15,3,7.5,75,2.8,106976,7134,a,2026-10-22T20:57:37.509750
-411,Haaland,Erling,Haaland,Man City,15,4,15.7,157,77.0,99091,21248,a,2026-10-22T20:57:37.509750
-481,Anderson,Elliot,Anderson,Man City,15,3,6.3,63,3.9,10714,17459,a,2026-10-22T20:57:37.509750
-587,Rulli,Gerónimo,Rulli,Man City,15,1,4.9,49,0.0,34,46,a,2026-10-22T20:57:37.509750
-616,Bouaddi,Ayyoub,Bouaddi,Man City,15,3,5.5,55,0.2,2632,989,a,2026-10-22T20:57:37.509750
-621,McAidoo,Ryan,McAidoo,Man City,15,3,4.4,44,0.1,847,738,a,2026-10-22T20:57:37.509750
-622,Braithwaite,Kaden,Braithwaite,Man City,15,2,3.9,39,0.2,988,799,a,2026-10-22T20:57:37.509750
-628,Allan,Allan,Andrade Elias,Man City,15,3,6.0,60,0.0,168,133,a,2026-10-22T20:57:37.509750
-653,Samba,Floyd,Samba,Man City,15,3,4.4,44,0.0,1051,373,a,2026-10-22T20:57:37.509750
-43,Tielemans,Youri,Tielemans,Man Utd,16,3,5.7,57,1.4,5119,4708,a,2026-10-22T20:57:37.509750
-131,Baleba,Carlos,Baleba,Man Utd,16,3,4.9,49,0.3,4111,1387,a,2026-10-22T20:57:37.509750
-162,Andrey Santos,Andrey,Nascimento dos Santos,Man Utd,16,3,4.7,47,0.5,1691,2335,a,2026-10-22T20:57:37.509750
-325,Darlow,Karl,Darlow,Man Utd,16,1,4.5,45,0.0,61,74,a,2026-10-22T20:57:37.509750
-412,Lammens,Senne,Lammens,Man Utd,16,1,4.9,49,8.6,4665,30629,a,2026-10-22T20:57:37.509750
-414,Heaton,Tom,Heaton,Man Utd,16,1,4.0,40,0.1,178,181,a,2026-10-22T20:57:37.509750
-416,De Ligt,Matthijs,de Ligt,Man Utd,16,2,4.9,49,0.0,691,167,a,2026-10-22T20:57:37.509750
-417,Dalot,Diogo,Dalot Teixeira,Man Utd,16,2,4.8,48,1.4,1263,4507,a,2026-10-22T20:57:37.509750
-418,Maguire,Harry,Maguire,Man Utd,16,2,4.8,48,6.6,3149,28152,a,2026-10-22T20:57:37.509750
-420,Yoro,Leny,Yoro,Man Utd,16,2,4.8,48,0.5,1194,913,a,2026-10-22T20:57:37.509750
-422,Mazraoui,Noussair,Mazraoui,Man Utd,16,2,4.3,43,0.4,873,1584,a,2026-10-22T20:57:37.509750
-424,Amass,Harry,Amass,Man Utd,16,2,4.0,40,0.2,298,568,a,2026-10-22T20:57:37.509750
-426,B.Fernandes,Bruno,Borges Fernandes,Man Utd,16,3,11.8,118,28.3,8893,289859,a,2026-10-22T20:57:37.509750
-427,Mbeumo,Bryan,Mbeumo,Man Utd,16,3,7.8,78,20.8,173670,31784,a,2026-10-22T20:57:37.509750
-428,Cunha,Matheus,Santos Carneiro da Cunha,Man Utd,16,3,7.9,79,6.6,19307,40848,a,2026-10-22T20:57:37.509750
-430,Mount,Mason,Mount,Man Utd,16,3,5.4,54,0.0,113,131,a,2026-10-22T20:57:37.509750
-431,Amad,Amad,Diallo,Man Utd,16,3,5.7,57,0.3,2049,856,a,2026-10-22T20:57:37.509750
-434,J.Fletcher,Jack,Fletcher,Man Utd,16,3,4.9,49,0.0,16,35,a,2026-10-22T20:57:37.509750
-435,Lacey,Shea,Lacey,Man Utd,16,3,4.9,49,0.1,90,209,a,2026-10-22T20:57:37.509750
-437,Bendito Mantato,Bendito,Mantato,Man Utd,16,3,4.4,44,0.2,534,552,a,2026-10-22T20:57:37.509750
-438,Fletcher,Tyler,Fletcher,Man Utd,16,3,4.4,44,0.3,518,1057,a,2026-10-22T20:57:37.509750
-440,Zirkzee,Joshua,Zirkzee,Man Utd,16,4,5.3,53,0.4,1053,2224,a,2026-10-22T20:57:37.509750
-405,N.Gonzalez,Nico,González Iglesias,Newcastle,17,3,5.5,55,0.2,1242,736,a,2026-10-22T20:57:37.509750
-442,Pope,Nick,Pope,Newcastle,17,1,4.9,49,0.9,674,1909,a,2026-10-22T20:57:37.509750
-443,Gillespie,Mark,Gillespie,Newcastle,17,1,4.5,45,0.0,28,61,a,2026-10-22T20:57:37.509750
-445,Thiaw,Malick,Thiaw,Newcastle,17,2,5.0,50,1.9,1214,10258,a,2026-10-22T20:57:37.509750
-446,Schär,Fabian,Schär,Newcastle,17,2,4.9,49,0.2,378,821,a,2026-10-22T20:57:37.509750
-447,Botman,Sven,Botman,Newcastle,17,2,5.0,50,0.8,5550,2387,a,2026-10-22T20:57:37.509750
-448,Burn,Dan,Burn,Newcastle,17,2,4.8,48,0.7,1336,1018,a,2026-10-22T20:57:37.509750
-449,Hall,Lewis,Hall,Newcastle,17,2,5.3,53,20.4,54731,42601,a,2026-10-22T20:57:37.509750
-453,Barnes,Harvey,Barnes,Newcastle,17,3,6.1,61,7.7,17679,50608,a,2026-10-22T20:57:37.509750
-457,J.Murphy,Jacob,Murphy,Newcastle,17,3,5.9,59,0.1,340,796,a,2026-10-22T20:57:37.509750
-458,Joelinton,Joelinton Cássio,Apolinário de Lira,Newcastle,17,3,5.4,54,0.0,280,77,a,2026-10-22T20:57:37.509750
-459,L.Miley,Lewis,Miley,Newcastle,17,3,5.5,55,0.1,189,271,a,2026-10-22T20:57:37.509750
-460,Willock,Joe,Willock,Newcastle,17,3,5.0,50,0.6,1924,4677,a,2026-10-22T20:57:37.509750
-461,Touré,Bazoumana,Touré,Newcastle,17,3,5.7,57,0.1,148,478,a,2026-10-22T20:57:37.509750
-462,Steur,Sean,Steur,Newcastle,17,3,4.8,48,0.1,120,364,a,2026-10-22T20:57:37.509750
-464,Wissa,Yoane,Wissa,Newcastle,17,4,6.1,61,13.6,7138,220404,a,2026-10-22T20:57:37.509750
-465,Osula,William,Osula,Newcastle,17,4,5.8,58,0.3,939,842,a,2026-10-22T20:57:37.509750
-559,Bamba,Aladji,Bamba,Newcastle,17,3,4.8,48,0.1,113,297,a,2026-10-22T20:57:37.509750
-567,Horníček,Lukás,Hornícek,Newcastle,17,1,5.0,50,1.3,1317,5983,a,2026-10-22T20:57:37.509750
-593,Dedić,Amar,Dedic,Newcastle,17,2,4.5,45,1.2,444,7248,a,2026-10-22T20:57:37.509750
-634,Fernandez-Pardo,Matias,Fernandez-Pardo,Newcastle,17,4,6.0,60,0.1,558,1678,a,2026-10-22T20:57:37.509750
-659,Miley,Mason,Miley,Newcastle,17,3,4.5,45,0.1,1265,584,a,2026-10-22T20:57:37.509750
-663,Pivas,Miodrag,Pivas,Newcastle,17,2,4.0,40,0.0,182,81,a,2026-10-22T20:57:37.509750
-664,Salia,Vakhtang,Salia,Newcastle,17,4,4.5,45,0.3,2609,2685,a,2026-10-22T20:57:37.509750
-665,Mills,Michael,Mills,Newcastle,17,3,4.5,45,0.0,135,50,a,2026-10-22T20:57:37.509750
-666,Thompson,Kyran,Thompson,Newcastle,17,3,4.5,45,0.0,142,73,a,2026-10-22T20:57:37.509750
-167,Delap,Liam,Delap,Nott'm Forest,18,4,5.5,55,1.9,8521,14470,a,2026-10-22T20:57:37.509750
-201,Muñoz,Daniel,Muñoz Mejía,Nott'm Forest,18,2,5.3,53,4.8,4479,14614,a,2026-10-22T20:57:37.509750
-467,Sels,Matz,Sels,Nott'm Forest,18,1,5.0,50,1.4,3737,2971,a,2026-10-22T20:57:37.509750
-468,John,John Victor,Maciel Furtado,Nott'm Forest,18,1,4.4,44,0.1,91,93,a,2026-10-22T20:57:37.509750
-469,N.Williams,Neco,Williams,Nott'm Forest,18,2,5.0,50,6.3,6763,16553,a,2026-10-22T20:57:37.509750
-471,Milenković,Nikola,Milenković,Nott'm Forest,18,2,5.4,54,0.8,687,1817,a,2026-10-22T20:57:37.509750
-472,Murillo,Murillo,Costa dos Santos,Nott'm Forest,18,2,5.5,55,2.1,10197,5108,a,2026-10-22T20:57:37.509750
-473,Aina,Ola,Aina,Nott'm Forest,18,2,4.3,43,1.8,835,9566,a,2026-10-22T20:57:37.509750
-474,Jair Cunha,Jair,Paula da Cunha Filho,Nott'm Forest,18,2,4.4,44,0.2,292,363,a,2026-10-22T20:57:37.509750
-476,O.Richards,Omar,Richards,Nott'm Forest,18,2,3.9,39,0.2,1766,617,a,2026-10-22T20:57:37.509750
-478,Netz,Luca,Netz,Nott'm Forest,18,2,4.4,44,0.0,50,68,a,2026-10-22T20:57:37.509750
-480,Gibbs-White,Morgan,Gibbs-White,Nott'm Forest,18,3,7.9,79,11.5,31637,115920,a,2026-10-22T20:57:37.509750
-482,Hudson-Odoi,Callum,Hudson-Odoi,Nott'm Forest,18,3,5.7,57,0.1,498,541,a,2026-10-22T20:57:37.509750
-483,Ndoye,Dan,Ndoye,Nott'm Forest,18,3,5.5,55,0.6,5966,2179,a,2026-10-22T20:57:37.509750
-486,McAtee,James,McAtee,Nott'm Forest,18,3,5.5,55,0.1,607,471,a,2026-10-22T20:57:37.509750
-487,Dominguez,Nicolás,Domínguez,Nott'm Forest,18,3,4.8,48,0.1,226,126,a,2026-10-22T20:57:37.509750
-488,I.Sangaré,Ibrahim,Sangaré,Nott'm Forest,18,3,4.8,48,0.3,421,1269,a,2026-10-22T20:57:37.509750
-489,Yates,Ryan,Yates,Nott'm Forest,18,3,4.4,44,1.1,2892,4224,a,2026-10-22T20:57:37.509750
-490,Wood,Chris,Wood,Nott'm Forest,18,4,5.7,57,0.8,1478,3574,a,2026-10-22T20:57:37.509750
-493,Kalimuendo,Arnaud,Kalimuendo,Nott'm Forest,18,4,5.4,54,0.0,143,198,a,2026-10-22T20:57:37.509750
-558,Schlager,Xaver,Schlager,Nott'm Forest,18,3,5.0,50,0.1,318,324,a,2026-10-22T20:57:37.509750
-581,Diomande,Ousmane,Diomande,Nott'm Forest,18,2,5.4,54,0.5,1237,1314,a,2026-10-22T20:57:37.509750
-590,Benda,Steven,Benda,Nott'm Forest,18,1,4.5,45,0.1,121,127,a,2026-10-22T20:57:37.509750
-112,Van Hecke,Jan Paul,van Hecke,Spurs,19,2,4.9,49,6.8,11527,20409,a,2026-10-22T20:57:37.509750
-455,Tonali,Sandro,Tonali,Spurs,19,3,5.3,53,1.8,4439,6728,a,2026-10-22T20:57:37.509750
-495,Austin,Brandon,Austin,Spurs,19,1,4.0,40,1.0,1502,1369,a,2026-10-22T20:57:37.509750
-496,Kinsky,Antonín,Kinský,Spurs,19,1,4.5,45,15.2,8463,43738,a,2026-10-22T20:57:37.509750
-497,Dubravka,Martin,Dubravka,Spurs,19,1,4.0,40,16.5,10303,27319,a,2026-10-22T20:57:37.509750
-498,Senesi,Marcos,Senesi Barón,Spurs,19,2,5.7,57,3.1,1229,9895,a,2026-10-22T20:57:37.509750
-503,Van de Ven,Micky,van de Ven,Spurs,19,2,5.0,50,3.6,4404,12529,a,2026-10-22T20:57:37.509750
-508,Davies,Ben,Davies,Spurs,19,2,3.9,39,1.0,5462,2750,a,2026-10-22T20:57:37.509750
-509,Byfield,Jun'ai,Byfield,Spurs,19,2,4.0,40,0.1,221,155,a,2026-10-22T20:57:37.509750
-510,Rowswell,James,Rowswell,Spurs,19,2,4.0,40,0.1,186,194,a,2026-10-22T20:57:37.509750
-512,Kudus,Mohammed,Kudus,Spurs,19,3,6.5,65,0.4,7408,2377,a,2026-10-22T20:57:37.509750
-514,Tel,Mathys,Tel,Spurs,19,3,5.6,56,0.1,209,701,a,2026-10-22T20:57:37.509750
-515,Maddison,James,Maddison,Spurs,19,3,6.2,62,0.5,12669,1245,a,2026-10-22T20:57:37.509750
-519,Gallagher,Conor,Gallagher,Spurs,19,3,5.3,53,0.2,434,914,a,2026-10-22T20:57:37.509750
-521,Kulusevski,Dejan,Kulusevski,Spurs,19,3,6.5,65,0.0,1111,118,a,2026-10-22T20:57:37.509750
-522,Gray,Archie,Gray,Spurs,19,3,4.9,49,0.2,542,647,a,2026-10-22T20:57:37.509750
-524,Olusesi,Callum,Olusesi,Spurs,19,3,4.4,44,0.9,998,3268,a,2026-10-22T20:57:37.509750
-525,Fernandes,Mateus,Fernandes,Spurs,19,3,5.7,57,0.6,327,3249,a,2026-10-22T20:57:37.509750
-526,Solanke,Dominic,Solanke-Mitchell,Spurs,19,4,5.8,58,1.5,7238,10462,a,2026-10-22T20:57:37.509750
-601,Williams-Barnett,Luca,Williams-Barnett,Spurs,19,3,4.5,45,0.1,260,342,a,2026-10-22T20:57:37.509750
-529,Roefs,Robin,Roefs,Sunderland,20,1,4.9,49,2.1,1410,6161,a,2026-10-22T20:57:37.509750
-531,Ellborg,Melker,Ellborg,Sunderland,20,1,4.4,44,0.1,131,147,a,2026-10-22T20:57:37.509750
-533,Mukiele,Nordi,Mukiele,Sunderland,20,2,5.4,54,1.8,3288,5454,a,2026-10-22T20:57:37.509750
-534,Hume,Trai,Hume,Sunderland,20,2,4.3,43,2.0,1035,7163,a,2026-10-22T20:57:37.509750
-535,Alderete,Omar,Alderete,Sunderland,20,2,4.8,48,0.2,203,729,a,2026-10-22T20:57:37.509750
-536,Reinildo,Reinildo,Mandava,Sunderland,20,2,4.4,44,0.2,279,580,a,2026-10-22T20:57:37.509750
-539,O'Nien,Luke,O'Nien,Sunderland,20,2,3.9,39,2.5,4252,6907,a,2026-10-22T20:57:37.509750
-542,E.Le Fée,Enzo,Le Fée,Sunderland,20,3,5.7,57,2.9,4824,11367,a,2026-10-22T20:57:37.509750
-543,Diarra,Habib,Diarra,Sunderland,20,3,5.3,53,0.0,44,44,a,2026-10-22T20:57:37.509750
-544,Xhaka,Granit,Xhaka,Sunderland,20,3,5.4,54,3.1,2556,14720,a,2026-10-22T20:57:37.509750
-545,Sadiki,Noah,Sadiki,Sunderland,20,3,4.8,48,0.2,1559,909,a,2026-10-22T20:57:37.509750
-548,Rigg,Chris,Rigg,Sunderland,20,3,4.8,48,0.0,46,99,a,2026-10-22T20:57:37.509750
-549,Talbi,Chemsdine,Talbi,Sunderland,20,3,5.3,53,0.1,50,306,a,2026-10-22T20:57:37.509750
-550,Jocelin.T,Djiamgone Jocelin Ta,Bi,Sunderland,20,3,4.9,49,0.0,8,19,a,2026-10-22T20:57:37.509750
-551,N.Angulo,Nilson,Angulo,Sunderland,20,3,5.0,50,0.1,153,694,a,2026-10-22T20:57:37.509750
-612,Methalie,Dayann,Méthalie,Sunderland,20,2,4.5,45,0.0,73,36,a,2026-10-22T20:57:37.509750
-613,Ahoka,Jules,Ahoka,Sunderland,20,3,4.5,45,0.2,536,787,a,2026-10-22T20:57:37.509750
-646,Fofana,Malick,Fofana,Sunderland,20,3,5.5,55,0.0,155,283,a,2026-10-22T20:57:37.509750
-651,J.Angulo,Juan,Angulo,Sunderland,20,4,4.5,45,0.8,3322,5546,a,2026-10-22T20:57:37.509750
-668,Tutierov,Tymur,Tutierov,Sunderland,20,3,5.0,50,0.0,20,1,a,2026-10-22T20:57:37.509750
+1,Raya,David,Raya Martín,Arsenal,1,1,6.1,61,44.7,108231,17346,a,2026-10-23T02:40:12.981107
+2,Arrizabalaga,Kepa,Arrizabalaga Revuelta,Arsenal,1,1,4.9,49,0.1,124,144,a,2026-10-23T02:40:12.981107
+3,Meslier,Illan,Meslier,Arsenal,1,1,4.9,49,0.0,32,67,a,2026-10-23T02:40:12.981107
+4,Gabriel,Gabriel,dos Santos Magalhães,Arsenal,1,2,7.9,79,21.1,29356,39195,a,2026-10-23T02:40:12.981107
+5,J.Timber,Jurriën,Timber,Arsenal,1,2,6.5,65,0.7,9144,6068,a,2026-10-23T02:40:12.981107
+7,Lewis-Skelly,Myles,Lewis-Skelly,Arsenal,1,3,5.4,54,0.5,890,2814,a,2026-10-23T02:40:12.981107
+8,Calafiori,Riccardo,Calafiori,Arsenal,1,2,6.0,60,54.2,120422,12321,a,2026-10-23T02:40:12.981107
+10,White,Benjamin,White,Arsenal,1,2,5.4,54,4.3,11345,9237,a,2026-10-23T02:40:12.981107
+11,Mosquera,Cristhian,Mosquera,Arsenal,1,2,5.2,52,1.3,575,6845,a,2026-10-23T02:40:12.981107
+13,Rice,Declan,Rice,Arsenal,1,3,7.3,73,11.5,77870,14972,a,2026-10-23T02:40:12.981107
+14,Eze,Eberechi,Eze,Arsenal,1,3,6.2,62,1.1,6511,4284,a,2026-10-23T02:40:12.981107
+15,Ødegaard,Martin,Ødegaard,Arsenal,1,3,6.8,68,18.5,46698,104458,a,2026-10-23T02:40:12.981107
+16,Madueke,Noni,Madueke,Arsenal,1,3,6.2,62,0.3,7148,895,a,2026-10-23T02:40:12.981107
+17,Merino,Mikel,Merino Zazón,Arsenal,1,3,5.7,57,0.4,894,1711,a,2026-10-23T02:40:12.981107
+19,Zubimendi,Martín,Zubimendi Ibáñez,Arsenal,1,3,5.2,52,0.5,337,2058,a,2026-10-23T02:40:12.981107
+20,Dowman,Max,Dowman,Arsenal,1,3,5.3,53,0.1,197,343,a,2026-10-23T02:40:12.981107
+25,Gyökeres,Viktor,Gyökeres,Arsenal,1,4,7.0,70,3.2,2068,18070,a,2026-10-23T02:40:12.981107
+26,Havertz,Kai,Havertz,Arsenal,1,4,7.5,75,6.1,11219,48647,a,2026-10-23T02:40:12.981107
+31,Konsa,Ezri,Konsa Ngoyo,Arsenal,1,2,4.6,46,18.1,85683,13930,a,2026-10-23T02:40:12.981107
+452,Bruno G.,Bruno,Guimarães Rodriguez Moura,Arsenal,1,3,6.7,67,2.4,17691,8633,a,2026-10-23T02:40:12.981107
+29,M.Bizot,Marco,Bizot,Aston Villa,2,1,4.5,45,0.1,190,289,a,2026-10-23T02:40:12.981107
+32,Cash,Matty,Cash,Aston Villa,2,2,4.4,44,4.1,5525,10186,a,2026-10-23T02:40:12.981107
+33,Mings,Tyrone,Mings,Aston Villa,2,2,4.5,45,0.4,1564,1022,a,2026-10-23T02:40:12.981107
+34,Pau,Pau,Torres,Aston Villa,2,2,4.4,44,0.3,310,586,a,2026-10-23T02:40:12.981107
+35,Bogarde,Lamare,Bogarde,Aston Villa,2,3,4.9,49,0.1,98,231,a,2026-10-23T02:40:12.981107
+36,Maatsen,Ian,Maatsen,Aston Villa,2,2,4.4,44,0.3,131,1919,a,2026-10-23T02:40:12.981107
+37,Lindelöf,Victor,Lindelöf,Aston Villa,2,2,4.5,45,0.4,4820,1043,a,2026-10-23T02:40:12.981107
+41,Buendía,Emiliano,Buendía Stati,Aston Villa,2,3,5.9,59,1.3,8917,7792,a,2026-10-23T02:40:12.981107
+45,McGinn,John,McGinn,Aston Villa,2,3,5.4,54,2.8,12048,15786,a,2026-10-23T02:40:12.981107
+46,Barkley,Ross,Barkley,Aston Villa,2,3,5.0,50,0.2,1081,1353,a,2026-10-23T02:40:12.981107
+47,Kamara,Boubacar,Kamara,Aston Villa,2,3,5.0,50,0.3,4351,1450,a,2026-10-23T02:40:12.981107
+50,Burrowes,Bradley,Burrowes,Aston Villa,2,3,4.4,44,0.5,1663,1974,a,2026-10-23T02:40:12.981107
+51,George Hemmings,George,Hemmings,Aston Villa,2,3,4.5,45,0.9,547,7531,a,2026-10-23T02:40:12.981107
+52,Alysson,Alysson Edward Franco,da Rocha dos Santos,Aston Villa,2,3,4.9,49,0.0,619,225,a,2026-10-23T02:40:12.981107
+54,Gomes,Joao,Gomes,Aston Villa,2,3,5.5,55,0.1,580,210,a,2026-10-23T02:40:12.981107
+56,Abraham,Tammy,Abraham,Aston Villa,2,4,5.5,55,0.2,883,1528,a,2026-10-23T02:40:12.981107
+160,Garnacho,Alejandro,Garnacho Ferreyra,Aston Villa,2,3,5.7,57,0.3,326,1229,a,2026-10-23T02:40:12.981107
+166,N.Jackson,Nicolas,Jackson,Aston Villa,2,4,6.6,66,4.1,39066,33544,a,2026-10-23T02:40:12.981107
+582,Madjo,Brian,Madjo,Aston Villa,2,4,5.4,54,0.2,664,960,a,2026-10-23T02:40:12.981107
+597,Suzuki,Zion,Suzuki,Aston Villa,2,1,5.0,50,2.0,17427,5407,a,2026-10-23T02:40:12.981107
+606,Rowe,Triston,Rowe,Aston Villa,2,2,4.0,40,0.2,289,440,a,2026-10-23T02:40:12.981107
+618,Goretzka,Leon,Goretzka,Aston Villa,2,3,5.9,59,0.0,276,108,a,2026-10-23T02:40:12.981107
+630,Harwood-Bellis,Taylor,Harwood-Bellis,Aston Villa,2,2,4.5,45,0.0,105,122,a,2026-10-23T02:40:12.981107
+631,Mbaye,Ibrahim,Mbaye,Aston Villa,2,3,6.0,60,0.1,1042,805,a,2026-10-23T02:40:12.981107
+667,Wright,James,Wright,Aston Villa,2,1,4.0,40,0.4,6758,1309,a,2026-10-23T02:40:12.981107
+57,Petrović,Đorđe,Petrović,Bournemouth,3,1,4.5,45,2.8,5368,5257,a,2026-10-23T02:40:12.981107
+58,Forster,Fraser,Forster,Bournemouth,3,1,4.0,40,3.5,5162,5127,a,2026-10-23T02:40:12.981107
+60,Hill,James,Hill,Bournemouth,3,2,5.5,55,0.8,6616,2355,a,2026-10-23T02:40:12.981107
+61,Truffert,Adrien,Truffert,Bournemouth,3,2,5.4,54,2.7,3810,7300,a,2026-10-23T02:40:12.981107
+62,Diakité,Bafodé,Diakité,Bournemouth,3,2,4.9,49,0.1,293,434,a,2026-10-23T02:40:12.981107
+64,Smith,Adam,Smith,Bournemouth,3,2,4.5,45,0.1,510,337,a,2026-10-23T02:40:12.981107
+66,Soler,Julio,Soler Barreto,Bournemouth,3,2,4.0,40,0.2,527,796,a,2026-10-23T02:40:12.981107
+67,Rayan,Rayan Vitor,Simplício Rocha,Bournemouth,3,3,6.3,63,1.5,6229,7008,a,2026-10-23T02:40:12.981107
+68,Tavernier,Marcus,Tavernier,Bournemouth,3,3,6.2,62,10.6,310877,16859,a,2026-10-23T02:40:12.981107
+70,Kluivert,Justin,Kluivert,Bournemouth,3,3,5.9,59,0.6,3098,2399,a,2026-10-23T02:40:12.981107
+71,Cook,Lewis,Cook,Bournemouth,3,3,5.0,50,0.2,297,641,a,2026-10-23T02:40:12.981107
+72,Gannon-Doak,Ben,Gannon-Doak,Bournemouth,3,3,4.8,48,0.1,174,234,a,2026-10-23T02:40:12.981107
+73,Adams,Tyler,Adams,Bournemouth,3,3,5.0,50,0.3,1170,1175,a,2026-10-23T02:40:12.981107
+74,Brooks,David,Brooks,Bournemouth,3,3,5.0,50,0.0,208,286,a,2026-10-23T02:40:12.981107
+75,Christie,Ryan,Christie,Bournemouth,3,3,5.0,50,0.0,397,270,a,2026-10-23T02:40:12.981107
+76,Tóth.A,Alex,Tóth,Bournemouth,3,3,4.9,49,0.0,37,54,a,2026-10-23T02:40:12.981107
+77,Adli,Amine,Adli,Bournemouth,3,3,4.8,48,0.0,264,62,a,2026-10-23T02:40:12.981107
+79,Evanilson,Francisco Evanilson,de Lima Barbosa,Bournemouth,3,4,6.1,61,4.8,102782,12999,a,2026-10-23T02:40:12.981107
+81,Rodríguez,Álvaro,Rodríguez,Bournemouth,3,4,6.0,60,0.1,516,577,a,2026-10-23T02:40:12.981107
+566,Silva,António João,Pereira de Albuquerque Tavares da Silva,Bournemouth,3,2,5.0,50,0.7,4958,1572,a,2026-10-23T02:40:12.981107
+573,Sanchez,Juanlu,Sánchez,Bournemouth,3,2,4.4,44,0.2,132,265,a,2026-10-23T02:40:12.981107
+608,Jebbison,Daniel,Jebbison,Bournemouth,3,4,5.0,50,0.1,404,694,a,2026-10-23T02:40:12.981107
+615,Di Gregorio,Michele,Di Gregorio,Bournemouth,3,1,4.5,45,0.0,165,125,a,2026-10-23T02:40:12.981107
+82,Kelleher,Caoimhín,Kelleher,Brentford,4,1,5.0,50,6.1,21795,12725,a,2026-10-23T02:40:12.981107
+83,Valdimarsson,Hákon Rafn,Valdimarsson,Brentford,4,1,4.4,44,0.1,233,249,a,2026-10-23T02:40:12.981107
+84,Collins,Nathan,Collins,Brentford,4,2,5.4,54,0.8,2245,1351,a,2026-10-23T02:40:12.981107
+85,Van den Berg,Sepp,van den Berg,Brentford,4,2,4.9,49,0.1,831,182,a,2026-10-23T02:40:12.981107
+86,Lewis-Potter,Keane,Lewis-Potter,Brentford,4,3,5.5,55,1.8,35065,4457,a,2026-10-23T02:40:12.981107
+87,Ajer,Kristoffer,Ajer,Brentford,4,2,4.5,45,4.1,30189,7852,a,2026-10-23T02:40:12.981107
+88,Kayode,Michael,Kayode,Brentford,4,2,4.6,46,7.1,9997,20026,a,2026-10-23T02:40:12.981107
+89,Henry,Rico,Henry,Brentford,4,2,4.4,44,0.2,133,403,a,2026-10-23T02:40:12.981107
+90,Hickey,Aaron,Hickey,Brentford,4,2,4.5,45,0.1,119,210,a,2026-10-23T02:40:12.981107
+92,Ji-soo,Kim,Ji-soo,Brentford,4,2,4.4,44,0.0,28,56,a,2026-10-23T02:40:12.981107
+94,Schade,Kevin,Schade,Brentford,4,3,6.2,62,14.3,141604,65764,a,2026-10-23T02:40:12.981107
+95,O.Dango,Dango,Ouattara,Brentford,4,3,6.2,62,0.4,988,1644,a,2026-10-23T02:40:12.981107
+96,Damsgaard,Mikkel,Damsgaard,Brentford,4,3,5.3,53,0.3,966,1227,a,2026-10-23T02:40:12.981107
+97,Jensen,Mathias,Jensen,Brentford,4,3,5.4,54,0.1,167,144,a,2026-10-23T02:40:12.981107
+100,Carvalho,Fábio,Freitas Gouveia Carvalho,Brentford,4,3,5.0,50,0.0,203,179,a,2026-10-23T02:40:12.981107
+105,Anthony,Jaidon,Anthony,Brentford,4,3,5.9,59,0.3,4015,2089,a,2026-10-23T02:40:12.981107
+106,Thiago,Igor Thiago,Nascimento Rodrigues,Brentford,4,4,7.8,78,8.8,23664,43629,a,2026-10-23T02:40:12.981107
+108,Wilson,Callum,Wilson,Brentford,4,4,5.4,54,0.3,562,1586,a,2026-10-23T02:40:12.981107
+565,M.Sangaré,Mamadou,Sangaré,Brentford,4,3,5.5,55,7.1,4014,47716,a,2026-10-23T02:40:12.981107
+620,Diouf,El Hadji Malick,Diouf,Brentford,4,2,4.5,45,0.1,428,605,a,2026-10-23T02:40:12.981107
+657,Nunes,Gustavo,Nunes Fernandes Gomes,Brentford,4,3,4.5,45,0.0,299,190,a,2026-10-23T02:40:12.981107
+660,Fredrick,Benjamin,Fredrick,Brentford,4,2,4.0,40,0.0,250,121,a,2026-10-23T02:40:12.981107
+661,Balcombe,Ellery,Balcombe,Brentford,4,1,4.0,40,0.1,1127,426,a,2026-10-23T02:40:12.981107
+109,Verbruggen,Bart,Verbruggen,Brighton,5,1,4.6,46,22.6,59756,34780,a,2026-10-23T02:40:12.981107
+111,Steele,Jason,Steele,Brighton,5,1,4.0,40,3.8,2508,11531,a,2026-10-23T02:40:12.981107
+113,F.Kadıoğlu,Ferdi,Kadıoğlu,Brighton,5,2,4.4,44,1.7,8980,4572,a,2026-10-23T02:40:12.981107
+114,Boscagli,Olivier,Boscagli,Brighton,5,2,4.5,45,0.5,12395,1176,a,2026-10-23T02:40:12.981107
+115,De Cuyper,Maxim,De Cuyper,Brighton,5,2,5.3,53,41.5,213553,20877,a,2026-10-23T02:40:12.981107
+116,Dunk,Lewis,Dunk,Brighton,5,2,4.5,45,1.5,4148,4213,a,2026-10-23T02:40:12.981107
+117,Coppola,Diego,Coppola,Brighton,5,2,4.5,45,0.0,59,64,a,2026-10-23T02:40:12.981107
+119,Costinha,João Pedro,Loureiro da Costa,Brighton,5,2,4.5,45,0.0,136,138,a,2026-10-23T02:40:12.981107
+120,Svoboda,Michael,Svoboda,Brighton,5,2,5.0,50,0.1,375,359,a,2026-10-23T02:40:12.981107
+123,Hinshelwood,Jack,Hinshelwood,Brighton,5,3,5.9,59,0.6,7337,1412,a,2026-10-23T02:40:12.981107
+124,Groß,Pascal,Groß,Brighton,5,3,6.2,62,45.7,236884,32888,a,2026-10-23T02:40:12.981107
+125,Georginio,Georginio,Rutter,Brighton,5,4,5.3,53,0.4,2032,3996,a,2026-10-23T02:40:12.981107
+126,O'Riley,Matt,O'Riley,Brighton,5,3,5.4,54,0.1,323,411,a,2026-10-23T02:40:12.981107
+127,Gomez,Diego,Gómez Amarilla,Brighton,5,3,5.0,50,3.9,45213,10657,a,2026-10-23T02:40:12.981107
+129,Ayari,Yasin,Ayari,Brighton,5,3,5.4,54,0.6,19252,1735,a,2026-10-23T02:40:12.981107
+134,Oriola,Nehemiah,Oriola,Brighton,5,3,4.4,44,0.2,548,886,a,2026-10-23T02:40:12.981107
+138,Kostoulas,Charalampos,Kostoulas,Brighton,5,4,5.7,57,9.9,126159,37779,a,2026-10-23T02:40:12.981107
+504,Vuskovic,Luka,Vušković,Brighton,5,2,5.1,51,5.9,101432,10631,a,2026-10-23T02:40:12.981107
+594,David,Promise,David,Brighton,5,4,5.9,59,0.2,1239,1636,a,2026-10-23T02:40:12.981107
+600,Osman,Ibrahim,Osman,Brighton,5,3,4.9,49,0.0,80,66,a,2026-10-23T02:40:12.981107
+605,Yalcouyé,Malick,Yalcouyé,Brighton,5,3,4.5,45,3.4,9747,32455,a,2026-10-23T02:40:12.981107
+614,Hadjam,Jaouen,Hadjam,Brighton,5,2,4.5,45,0.1,297,250,a,2026-10-23T02:40:12.981107
+639,Andrés,José María,Andrés Baixauli,Brighton,5,3,5.5,55,0.1,1217,917,a,2026-10-23T02:40:12.981107
+658,Ibrahim,Younes,Ibrahim,Brighton,5,3,4.5,45,0.0,296,165,a,2026-10-23T02:40:12.981107
+40,Rogers,Morgan,Rogers,Chelsea,6,3,8.0,80,48.6,209100,41878,a,2026-10-23T02:40:12.981107
+101,Henderson,Jordan,Henderson,Chelsea,6,3,4.9,49,1.2,40916,6254,a,2026-10-23T02:40:12.981107
+136,Welbeck,Danny,Welbeck,Chelsea,6,4,5.8,58,0.8,981,6043,a,2026-10-23T02:40:12.981107
+145,Fofana,Wesley,Fofana,Chelsea,6,2,5.0,50,0.2,943,1754,a,2026-10-23T02:40:12.981107
+148,Hato,Jorrel,Hato,Chelsea,6,2,4.5,45,0.7,9482,1645,a,2026-10-23T02:40:12.981107
+149,Colwill,Levi,Samuels Colwill,Chelsea,6,2,4.8,48,0.8,4156,2063,a,2026-10-23T02:40:12.981107
+151,Acheampong,Josh,Acheampong,Chelsea,6,2,4.5,45,0.3,3149,698,a,2026-10-23T02:40:12.981107
+152,Palestra,Marco,Palestra,Chelsea,6,2,5.3,53,0.5,625,2264,a,2026-10-23T02:40:12.981107
+154,Palmer,Cole,Palmer,Chelsea,6,3,9.8,98,27.2,175110,53579,a,2026-10-23T02:40:12.981107
+156,Neto,Pedro,Lomba Neto,Chelsea,6,3,6.5,65,2.9,150844,5743,a,2026-10-23T02:40:12.981107
+157,Estêvão,Estêvão,Almeida de Oliveira Gonçalves,Chelsea,6,3,6.3,63,0.7,1075,2974,a,2026-10-23T02:40:12.981107
+159,Caicedo,Moisés,Caicedo Corozo,Chelsea,6,3,5.3,53,1.1,4834,2245,a,2026-10-23T02:40:12.981107
+161,Lavia,Roméo,Lavia,Chelsea,6,3,5.0,50,0.2,186,1379,a,2026-10-23T02:40:12.981107
+164,Quenda,Geovany,Quenda,Chelsea,6,3,5.3,53,0.0,21,106,a,2026-10-23T02:40:12.981107
+165,João Pedro,João Pedro,Junqueira de Jesus,Chelsea,6,4,7.9,79,73.1,135919,31474,a,2026-10-23T02:40:12.981107
+169,Mheuka,Shumaira,Mheuka,Chelsea,6,4,4.5,45,0.5,1176,2790,a,2026-10-23T02:40:12.981107
+200,Lacroix,Maxence,Lacroix,Chelsea,6,2,5.9,59,6.3,14538,13430,a,2026-10-23T02:40:12.981107
+560,Penders,Mike,Penders,Chelsea,6,1,4.4,44,0.2,11619,790,a,2026-10-23T02:40:12.981107
+561,Anselmino,Aaron,Anselmino,Chelsea,6,2,4.5,45,0.0,56,60,a,2026-10-23T02:40:12.981107
+568,Barco,Valentín,Barco,Chelsea,6,3,5.4,54,0.1,72,364,a,2026-10-23T02:40:12.981107
+662,Nicoll-Jazuli,Mahdi,Nicoll-Jazuli,Chelsea,6,3,4.5,45,0.0,131,83,a,2026-10-23T02:40:12.981107
+91,Pinnock,Ethan,Pinnock,Coventry City,7,2,4.5,45,0.1,839,288,a,2026-10-23T02:40:12.981107
+104,Onyeka,Frank,Onyeka,Coventry City,7,3,4.8,48,0.1,169,338,a,2026-10-23T02:40:12.981107
+110,Rushworth,Carl,Rushworth,Coventry City,7,1,4.5,45,0.9,7514,2341,a,2026-10-23T02:40:12.981107
+172,Wilson,Ben,Wilson,Coventry City,7,1,4.4,44,0.3,143,406,a,2026-10-23T02:40:12.981107
+173,Thomas,Bobby,Thomas,Coventry City,7,2,4.0,40,9.4,41042,11909,a,2026-10-23T02:40:12.981107
+175,van Ewijk,Milan,van Ewijk,Coventry City,7,2,3.9,39,7.4,15645,17813,a,2026-10-23T02:40:12.981107
+176,Dasilva,Jay,Dasilva,Coventry City,7,2,4.0,40,1.5,18577,4661,a,2026-10-23T02:40:12.981107
+177,Kesler-Hayden,Kaine,Kesler-Hayden,Coventry City,7,2,3.9,39,0.1,430,185,a,2026-10-23T02:40:12.981107
+178,Bidwell,Jake,Bidwell,Coventry City,7,2,4.0,40,0.1,194,194,a,2026-10-23T02:40:12.981107
+179,Latibeaudiere,Joel,Latibeaudiere,Coventry City,7,2,3.9,39,0.0,547,149,a,2026-10-23T02:40:12.981107
+183,Rudoni,Jack,Rudoni,Coventry City,7,3,4.9,49,0.4,20530,1352,a,2026-10-23T02:40:12.981107
+184,Grimes,Matt,Grimes,Coventry City,7,3,4.8,48,0.1,654,484,a,2026-10-23T02:40:12.981107
+185,Sakamoto,Tatsuhiro,Sakamoto,Coventry City,7,3,4.8,48,0.1,229,206,a,2026-10-23T02:40:12.981107
+186,Mason-Clark,Ephron,Mason-Clark,Coventry City,7,3,5.3,53,0.1,133,239,a,2026-10-23T02:40:12.981107
+188,Torp,Victor,Torp,Coventry City,7,3,5.3,53,0.1,28,200,a,2026-10-23T02:40:12.981107
+189,Shepherd,George,Shepherd,Coventry City,7,3,4.4,44,0.2,626,1008,a,2026-10-23T02:40:12.981107
+190,Tchaouna,Loum,Tchaouna,Coventry City,7,3,5.3,53,0.1,25,187,a,2026-10-23T02:40:12.981107
+194,Thomas-Asante,Brandon,Thomas-Asante,Coventry City,7,4,5.0,50,1.0,11201,5625,a,2026-10-23T02:40:12.981107
+195,Simms,Ellis,Simms,Coventry City,7,4,4.9,49,0.7,4505,4349,a,2026-10-23T02:40:12.981107
+492,Awoniyi,Taiwo,Awoniyi,Coventry City,7,4,5.4,54,0.3,677,1233,a,2026-10-23T02:40:12.981107
+575,Yirenkyi,Caleb,Yirenkyi,Coventry City,7,3,4.8,48,0.1,790,652,a,2026-10-23T02:40:12.981107
+584,Hamer,Gustavo,Hamer,Coventry City,7,3,5.3,53,0.1,30,209,a,2026-10-23T02:40:12.981107
+599,Cherif,Sidiki,Cherif,Coventry City,7,4,5.0,50,0.4,8632,2868,a,2026-10-23T02:40:12.981107
+623,Bentley,Dan,Bentley,Coventry City,7,1,4.0,40,1.0,1908,883,a,2026-10-23T02:40:12.981107
+655,Gboho,Yann,Gboho,Coventry City,7,3,5.5,55,0.0,96,53,a,2026-10-23T02:40:12.981107
+656,Mfuni,Stephen,Mfuni,Coventry City,7,2,4.0,40,0.2,1569,738,a,2026-10-23T02:40:12.981107
+42,Guessand,Evann,Guessand,Crystal Palace,8,3,5.4,54,0.0,86,171,a,2026-10-23T02:40:12.981107
+153,Disasi,Axel,Disasi,Crystal Palace,8,2,4.4,44,0.1,148,182,a,2026-10-23T02:40:12.981107
+199,Benitez,Walter,Benítez,Crystal Palace,8,1,4.5,45,0.1,800,418,a,2026-10-23T02:40:12.981107
+202,Richards,Chris,Richards,Crystal Palace,8,2,4.9,49,0.6,1608,1933,a,2026-10-23T02:40:12.981107
+203,Canvot,Jaydee,Canvot,Crystal Palace,8,2,4.8,48,0.2,351,824,a,2026-10-23T02:40:12.981107
+204,Mitchell,Tyrick,Mitchell,Crystal Palace,8,2,4.5,45,5.6,3969,23317,a,2026-10-23T02:40:12.981107
+207,Mingueza,Oscar,Mingueza,Crystal Palace,8,2,4.3,43,0.1,152,219,a,2026-10-23T02:40:12.981107
+208,Sarr,Ismaïla,Sarr,Crystal Palace,8,3,6.2,62,0.6,1275,2472,a,2026-10-23T02:40:12.981107
+210,Wharton,Adam,Wharton,Crystal Palace,8,3,5.4,54,0.7,1002,2606,a,2026-10-23T02:40:12.981107
+211,Yeremy,Yéremy,Pino Santos,Crystal Palace,8,3,5.5,55,0.3,1878,1997,a,2026-10-23T02:40:12.981107
+212,Hughes,Will,Hughes,Crystal Palace,8,3,4.3,43,6.1,11040,26461,a,2026-10-23T02:40:12.981107
+213,Lerma,Jefferson,Lerma Solís,Crystal Palace,8,3,4.8,48,0.1,1542,370,a,2026-10-23T02:40:12.981107
+214,Kamada,Daichi,Kamada,Crystal Palace,8,3,5.0,50,0.7,6887,3684,a,2026-10-23T02:40:12.981107
+218,Doucouré,Cheick,Doucouré,Crystal Palace,8,3,4.8,48,0.0,97,180,a,2026-10-23T02:40:12.981107
+221,Drakes-Thomas,Joél,Drakes-Thomas,Crystal Palace,8,3,4.4,44,0.1,149,244,a,2026-10-23T02:40:12.981107
+222,Strand Larsen,Jørgen,Strand Larsen,Crystal Palace,8,4,6.0,60,0.6,1557,5337,a,2026-10-23T02:40:12.981107
+223,Mateta,Jean-Philippe,Mateta,Crystal Palace,8,4,6.3,63,1.2,2440,2271,a,2026-10-23T02:40:12.981107
+224,Nketiah,Eddie,Nketiah,Crystal Palace,8,4,5.4,54,0.4,699,2663,a,2026-10-23T02:40:12.981107
+241,McNeil,Dwight,McNeil,Crystal Palace,8,3,5.3,53,0.1,55,267,a,2026-10-23T02:40:12.981107
+555,Matthews,Remi,Matthews,Crystal Palace,8,1,4.0,40,1.6,510,1763,a,2026-10-23T02:40:12.981107
+588,Khalaili,Anan,Khalaili,Crystal Palace,8,2,5.0,50,0.3,644,1410,a,2026-10-23T02:40:12.981107
+595,Gozo,Zavier,Gozo,Crystal Palace,8,3,4.9,49,0.0,29,64,a,2026-10-23T02:40:12.981107
+633,Ahanor,Honest,Ahanor,Crystal Palace,8,2,4.5,45,0.0,62,85,a,2026-10-23T02:40:12.981107
+643,Chilwell,Ben,Chilwell,Crystal Palace,8,2,4.4,44,0.3,38,4157,a,2026-10-23T02:40:12.981107
+647,Osorio,Darío,Osorio,Crystal Palace,8,3,5.4,54,0.0,11,38,a,2026-10-23T02:40:12.981107
+21,Nørgaard,Christian,Nørgaard,Everton,9,3,4.8,48,0.0,324,151,a,2026-10-23T02:40:12.981107
+209,Johnson,Brennan,Johnson,Everton,9,3,5.9,59,0.1,193,697,a,2026-10-23T02:40:12.981107
+226,Pickford,Jordan,Pickford,Everton,9,1,5.5,55,8.7,7998,25500,a,2026-10-23T02:40:12.981107
+227,Travers,Mark,Travers,Everton,9,1,5.0,50,0.0,280,205,a,2026-10-23T02:40:12.981107
+228,King,Tom,King,Everton,9,1,4.5,45,0.0,121,118,a,2026-10-23T02:40:12.981107
+229,Tarkowski,James,Tarkowski,Everton,9,2,6.2,62,18.2,49746,67132,a,2026-10-23T02:40:12.981107
+230,Branthwaite,Jarrad,Branthwaite,Everton,9,2,5.5,55,2.4,6647,10582,a,2026-10-23T02:40:12.981107
+231,Keane,Michael,Keane,Everton,9,2,4.7,47,0.6,302,2553,a,2026-10-23T02:40:12.981107
+232,O'Brien,Jake,O'Brien,Everton,9,2,4.8,48,0.3,181,795,a,2026-10-23T02:40:12.981107
+233,Mykolenko,Vitalii,Mykolenko,Everton,9,2,4.6,46,2.7,3632,10732,a,2026-10-23T02:40:12.981107
+236,Dewsbury-Hall,Kiernan,Dewsbury-Hall,Everton,9,3,6.6,66,6.0,28819,36823,a,2026-10-23T02:40:12.981107
+238,Grealish,Jack,Grealish,Everton,9,3,6.5,65,0.5,2268,3392,a,2026-10-23T02:40:12.981107
+239,Garner,James,Garner,Everton,9,3,6.0,60,0.2,1087,1778,a,2026-10-23T02:40:12.981107
+242,George,Tyrique,George,Everton,9,3,5.5,55,0.6,560,7089,a,2026-10-23T02:40:12.981107
+243,Alcaraz,Carlos,Alcaraz Durán,Everton,9,3,4.8,48,0.1,123,252,a,2026-10-23T02:40:12.981107
+244,Armstrong,Harrison,Armstrong,Everton,9,3,5.0,50,0.3,672,2241,a,2026-10-23T02:40:12.981107
+245,Dibling,Tyler,Dibling,Everton,9,3,5.3,53,0.0,47,113,a,2026-10-23T02:40:12.981107
+246,Röhl,Merlin,Röhl,Everton,9,3,4.9,49,0.0,133,102,a,2026-10-23T02:40:12.981107
+247,Hackney,Hayden,Hackney,Everton,9,3,5.4,54,0.2,61,776,a,2026-10-23T02:40:12.981107
+249,Barry,Thierno,Barry,Everton,9,4,5.7,57,8.1,14683,78427,a,2026-10-23T02:40:12.981107
+649,Maitland-Niles,Ainsley,Maitland-Niles,Everton,9,2,4.5,45,1.5,2277,6382,a,2026-10-23T02:40:12.981107
+654,Graham,Braiden,Graham,Everton,9,3,4.5,45,0.1,272,432,a,2026-10-23T02:40:12.981107
+250,Leno,Bernd,Leno,Fulham,10,1,4.5,45,4.3,25487,5726,a,2026-10-23T02:40:12.981107
+251,Lecomte,Benjamin,Lecomte,Fulham,10,1,4.0,40,1.1,937,1511,a,2026-10-23T02:40:12.981107
+253,Andersen,Joachim,Andersen,Fulham,10,2,5.0,50,0.2,1238,1360,a,2026-10-23T02:40:12.981107
+254,Robinson,Antonee,Robinson,Fulham,10,2,4.4,44,1.3,4761,2250,a,2026-10-23T02:40:12.981107
+255,J.Cuenca,Jorge,Cuenca Barreno,Fulham,10,2,4.4,44,0.0,72,101,a,2026-10-23T02:40:12.981107
+256,Tete,Kenny,Tete,Fulham,10,2,4.4,44,0.2,117,406,a,2026-10-23T02:40:12.981107
+257,Bassey,Calvin,Bassey,Fulham,10,2,4.5,45,1.1,9216,2402,a,2026-10-23T02:40:12.981107
+258,Castagne,Timothy,Castagne,Fulham,10,2,4.5,45,1.2,5483,2215,a,2026-10-23T02:40:12.981107
+261,Iwobi,Alex,Iwobi,Fulham,10,3,5.4,54,1.2,41317,2969,a,2026-10-23T02:40:12.981107
+262,Smith Rowe,Emile,Smith Rowe,Fulham,10,3,5.3,53,0.2,204,869,a,2026-10-23T02:40:12.981107
+263,Kevin,Kevin,Santos Lopes de Macedo,Fulham,10,3,5.3,53,0.0,78,216,a,2026-10-23T02:40:12.981107
+264,Bobb,Oscar,Bobb,Fulham,10,3,5.5,55,0.3,1795,1704,a,2026-10-23T02:40:12.981107
+265,Berge,Sander,Berge,Fulham,10,3,4.9,49,0.3,1383,767,a,2026-10-23T02:40:12.981107
+266,Cairney,Tom,Cairney,Fulham,10,3,4.9,49,0.0,33,17,a,2026-10-23T02:40:12.981107
+268,King,Josh,King,Fulham,10,3,5.6,56,4.7,12502,28834,a,2026-10-23T02:40:12.981107
+270,Reed,Harrison,Reed,Fulham,10,3,4.4,44,1.0,1090,4021,a,2026-10-23T02:40:12.981107
+271,Muniz,Rodrigo,Muniz Carvalho,Fulham,10,4,5.3,53,0.4,776,2425,a,2026-10-23T02:40:12.981107
+272,Kusi-Asare,Jonah,Kusi-Asare,Fulham,10,4,4.4,44,4.9,16570,29841,a,2026-10-23T02:40:12.981107
+569,Gonzalo,Gonzalo,García,Fulham,10,4,6.1,61,6.7,8670,58141,a,2026-10-23T02:40:12.981107
+570,Palacios,César,Palacios,Fulham,10,3,5.3,53,0.1,92,733,a,2026-10-23T02:40:12.981107
+580,Charles,Shea,Charles,Fulham,10,3,5.0,50,0.1,666,490,a,2026-10-23T02:40:12.981107
+626,Zepa,Macaulay,Zepa,Fulham,10,3,4.4,44,0.4,5129,2775,a,2026-10-23T02:40:12.981107
+636,Ángel,Manuel Ángel,Morán Ibáñez,Fulham,10,3,5.0,50,0.0,39,25,a,2026-10-23T02:40:12.981107
+650,Affengruber,David,Affengruber,Fulham,10,2,4.5,45,0.7,2876,1692,a,2026-10-23T02:40:12.981107
+240,Iroegbunam,Tim,Iroegbunam,Hull City,11,3,5.0,50,0.0,63,80,a,2026-10-23T02:40:12.981107
+273,Phillips,Dillon,Phillips,Hull City,11,1,4.0,40,1.4,899,2095,a,2026-10-23T02:40:12.981107
+277,Egan,John,Egan,Hull City,11,2,4.1,41,7.2,16791,17434,a,2026-10-23T02:40:12.981107
+279,Ajayi,Semi,Ajayi,Hull City,11,2,4.2,42,13.3,12688,49565,a,2026-10-23T02:40:12.981107
+280,Coyle,Lewie,Coyle,Hull City,11,2,4.0,40,0.6,1108,1669,a,2026-10-23T02:40:12.981107
+282,Giles,Ryan,Giles,Hull City,11,2,4.0,40,2.9,3245,11615,a,2026-10-23T02:40:12.981107
+284,McCarthy,Cathal,McCarthy,Hull City,11,2,4.0,40,0.1,239,347,a,2026-10-23T02:40:12.981107
+285,McNair,Paddy,McNair,Hull City,11,2,4.0,40,0.1,133,295,a,2026-10-23T02:40:12.981107
+286,Belloumi,Mohamed,Belloumi,Hull City,11,3,5.2,52,9.1,65256,35576,a,2026-10-23T02:40:12.981107
+288,Dowell,Kieran,Dowell,Hull City,11,3,4.4,44,0.3,397,1074,a,2026-10-23T02:40:12.981107
+289,Crooks,Matt,Crooks,Hull City,11,3,4.4,44,0.6,7105,3036,a,2026-10-23T02:40:12.981107
+290,Slater,Regan,Slater,Hull City,11,3,4.5,45,4.8,14042,24595,a,2026-10-23T02:40:12.981107
+292,Ömür,Abdülkadir,Ömür,Hull City,11,3,4.9,49,0.0,42,83,a,2026-10-23T02:40:12.981107
+294,Zambrano,Óscar,Zambrano,Hull City,11,3,4.5,45,0.1,141,281,a,2026-10-23T02:40:12.981107
+295,McBurnie,Oli,McBurnie,Hull City,11,4,5.5,55,1.6,2922,15806,a,2026-10-23T02:40:12.981107
+340,Gelhardt,Joe,Gelhardt,Hull City,11,3,5.0,50,0.0,443,331,a,2026-10-23T02:40:12.981107
+563,Morita,Hidemasa,Morita,Hull City,11,3,4.9,49,0.0,65,41,a,2026-10-23T02:40:12.981107
+572,Tzolakis,Konstantinos,Tzolakis,Hull City,11,1,4.7,47,14.1,39805,23687,a,2026-10-23T02:40:12.981107
+574,Hjertø-Dahl,Jens,Hjertø-Dahl,Hull City,11,3,4.8,48,0.0,77,195,a,2026-10-23T02:40:12.981107
+576,Stroud,Elliot,Stroud,Hull City,11,3,4.9,49,0.1,149,342,a,2026-10-23T02:40:12.981107
+585,Herrington,Lucas,Herrington,Hull City,11,2,4.0,40,0.5,332,1421,a,2026-10-23T02:40:12.981107
+638,Norton-Cuffy,Brooke,Norton-Cuffy,Hull City,11,2,3.9,39,0.3,4261,898,a,2026-10-23T02:40:12.981107
+642,Thomas,Sorba,Thomas,Hull City,11,3,5.5,55,0.0,548,548,a,2026-10-23T02:40:12.981107
+645,Mouzakitis,Christos,Mouzakitis,Hull City,11,3,5.0,50,0.0,47,46,a,2026-10-23T02:40:12.981107
+259,Diop,Issa,Diop,Ipswich Town,12,2,3.9,39,11.0,14946,25675,a,2026-10-23T02:40:12.981107
+300,Walton,Christian,Walton,Ipswich Town,12,1,4.4,44,0.5,2729,1197,a,2026-10-23T02:40:12.981107
+301,Palmer,Alex,Palmer,Ipswich Town,12,1,4.0,40,3.7,2167,6637,a,2026-10-23T02:40:12.981107
+302,Button,David,Button,Ipswich Town,12,1,4.0,40,0.6,473,840,a,2026-10-23T02:40:12.981107
+303,Kipré,Cédric,Kipré,Ipswich Town,12,2,3.9,39,0.8,478,2503,a,2026-10-23T02:40:12.981107
+304,O'Shea,Dara,O'Shea,Ipswich Town,12,2,4.0,40,2.8,15690,4654,a,2026-10-23T02:40:12.981107
+305,Davis,Leif,Davis,Ipswich Town,12,2,4.0,40,7.4,9131,20796,a,2026-10-23T02:40:12.981107
+306,Greaves,Jacob,Greaves,Ipswich Town,12,2,3.9,39,1.1,1706,2912,a,2026-10-23T02:40:12.981107
+308,Furlong,Darnell,Furlong,Ipswich Town,12,2,3.9,39,0.6,479,1621,a,2026-10-23T02:40:12.981107
+309,Núñez,Marcelino,Núñez,Ipswich Town,12,3,4.8,48,0.1,120,333,a,2026-10-23T02:40:12.981107
+310,Matusiwa,Azor,Matusiwa,Ipswich Town,12,3,4.9,49,0.0,25,15,a,2026-10-23T02:40:12.981107
+312,Taylor,Jack,Taylor,Ipswich Town,12,3,4.4,44,0.0,577,310,a,2026-10-23T02:40:12.981107
+313,Clarke,Jack,Clarke,Ipswich Town,12,3,5.3,53,0.2,191,548,a,2026-10-23T02:40:12.981107
+315,Fatawu,Abdul,Fatawu,Ipswich Town,12,3,5.4,54,0.1,268,297,a,2026-10-23T02:40:12.981107
+316,Emersonn,Emersonn,Correia da Silva,Ipswich Town,12,4,5.6,56,3.6,12630,28912,a,2026-10-23T02:40:12.981107
+318,Philogene,Jaden,Philogene,Ipswich Town,12,3,5.4,54,0.1,27,99,a,2026-10-23T02:40:12.981107
+320,Akpom,Chuba,Akpom,Ipswich Town,12,4,5.0,50,1.0,1227,7379,a,2026-10-23T02:40:12.981107
+321,Walle Egeli,Sindre,Walle Egeli,Ipswich Town,12,4,4.5,45,3.3,5976,23632,a,2026-10-23T02:40:12.981107
+323,McAteer,Kasey,McAteer,Ipswich Town,12,3,4.4,44,0.9,1405,3861,a,2026-10-23T02:40:12.981107
+324,Mehmeti,Anis,Mehmeti,Ipswich Town,12,3,4.8,48,0.0,11,90,a,2026-10-23T02:40:12.981107
+562,Maeda,Daizen,Maeda,Ipswich Town,12,3,5.3,53,0.2,1885,439,a,2026-10-23T02:40:12.981107
+564,Scherpen,Kjell,Scherpen,Ipswich Town,12,1,4.5,45,0.5,201,1743,a,2026-10-23T02:40:12.981107
+571,Florentino,Florentino Ibrain,Morris Luís,Ipswich Town,12,3,4.8,48,0.1,234,198,a,2026-10-23T02:40:12.981107
+591,Enciso,Julio,Enciso,Ipswich Town,12,3,5.5,55,0.7,3109,4294,a,2026-10-23T02:40:12.981107
+592,Ouattara,Abdoul,Ouattara,Ipswich Town,12,2,4.0,40,1.0,5400,1343,a,2026-10-23T02:40:12.981107
+619,Palacios,Exequiel,Palacios,Ipswich Town,12,3,5.0,50,0.1,479,347,a,2026-10-23T02:40:12.981107
+640,Flemming,Zian,Flemming,Ipswich Town,12,4,5.5,55,0.1,2139,756,a,2026-10-23T02:40:12.981107
+260,Wilson,Harry,Wilson,Leeds,13,3,6.2,62,1.3,973,5712,a,2026-10-23T02:40:12.981107
+327,Bijol,Jaka,Bijol,Leeds,13,2,5.0,50,0.6,800,2875,a,2026-10-23T02:40:12.981107
+330,Bogle,Jayden,Bogle,Leeds,13,2,4.7,47,10.4,109370,20551,a,2026-10-23T02:40:12.981107
+331,Gudmundsson,Gabriel,Gudmundsson,Leeds,13,2,4.5,45,0.1,1258,376,a,2026-10-23T02:40:12.981107
+332,Justin,James,Justin,Leeds,13,2,4.5,45,2.1,22999,4561,a,2026-10-23T02:40:12.981107
+334,Muharemović,Tarik,Muharemović,Leeds,13,2,5.0,50,5.1,44466,5060,a,2026-10-23T02:40:12.981107
+335,Stach,Anton,Stach,Leeds,13,3,6.0,60,2.3,7453,9776,a,2026-10-23T02:40:12.981107
+336,Okafor,Noah,Okafor,Leeds,13,3,5.8,58,0.4,3081,2868,a,2026-10-23T02:40:12.981107
+337,Aaronson,Brenden,Aaronson,Leeds,13,3,5.3,53,0.4,160,1648,a,2026-10-23T02:40:12.981107
+338,Ampadu,Ethan,Ampadu,Leeds,13,3,5.3,53,0.8,1142,3932,a,2026-10-23T02:40:12.981107
+339,Longstaff,Sean,Longstaff,Leeds,13,3,4.8,48,0.1,231,345,a,2026-10-23T02:40:12.981107
+344,Gruev,Ilia,Gruev,Leeds,13,3,5.0,50,0.0,58,19,a,2026-10-23T02:40:12.981107
+345,Tanaka,Tanaka,Ao,Leeds,13,3,4.9,49,0.3,1663,1579,a,2026-10-23T02:40:12.981107
+346,Calvert-Lewin,Dominic,Calvert-Lewin,Leeds,13,4,6.1,61,23.7,163662,54699,a,2026-10-23T02:40:12.981107
+347,Nmecha,Lukas,Nmecha,Leeds,13,4,5.3,53,0.4,920,2531,a,2026-10-23T02:40:12.981107
+385,Trafford,James,Trafford,Leeds,13,1,5.0,50,5.9,31263,10254,a,2026-10-23T02:40:12.981107
+598,Elvedi,Nico,Elvedi,Leeds,13,2,4.5,45,0.1,261,133,a,2026-10-23T02:40:12.981107
+603,Lienou,Jayden,Lienou,Leeds,13,2,4.0,40,0.1,119,268,a,2026-10-23T02:40:12.981107
+604,Cresswell,Alfie,Cresswell,Leeds,13,3,4.5,45,0.1,490,545,a,2026-10-23T02:40:12.981107
+625,Cairns,Alex,Cairns,Leeds,13,1,4.0,40,0.2,403,343,a,2026-10-23T02:40:12.981107
+629,Zetterer,Michael,Zetterer,Leeds,13,1,4.0,40,0.7,2406,1447,a,2026-10-23T02:40:12.981107
+641,Bard,Melvin,Bard,Leeds,13,2,4.5,45,0.0,82,60,a,2026-10-23T02:40:12.981107
+648,Bahoya,Jean-Mattéo,Bahoya,Leeds,13,3,4.9,49,0.0,62,80,a,2026-10-23T02:40:12.981107
+350,A.Becker,Alisson,Becker,Liverpool,14,1,5.5,55,4.2,7336,13213,a,2026-10-23T02:40:12.981107
+351,Mamardashvili,Giorgi,Mamardashvili,Liverpool,14,1,4.8,48,0.1,245,355,a,2026-10-23T02:40:12.981107
+352,Woodman,Freddie,Woodman,Liverpool,14,1,4.0,40,1.0,669,1497,a,2026-10-23T02:40:12.981107
+355,Davies,Harvey,Davies,Liverpool,14,1,4.0,40,0.2,218,316,a,2026-10-23T02:40:12.981107
+356,Virgil,Virgil,van Dijk,Liverpool,14,2,6.4,64,15.2,14775,41502,a,2026-10-23T02:40:12.981107
+358,Kerkez,Milos,Kerkez,Liverpool,14,2,5.3,53,2.0,2266,6577,a,2026-10-23T02:40:12.981107
+359,Gomez,Joe,Gomez,Liverpool,14,2,4.9,49,0.0,369,144,a,2026-10-23T02:40:12.981107
+361,Lucky,Wellity,Lucky,Liverpool,14,2,4.0,40,0.1,223,375,a,2026-10-23T02:40:12.981107
+362,Jacquet,Jeremy,Jacquet,Liverpool,14,2,5.1,51,4.1,31437,10215,a,2026-10-23T02:40:12.981107
+364,Tsimikas,Kostas,Tsimikas,Liverpool,14,2,4.9,49,0.1,294,285,a,2026-10-23T02:40:12.981107
+366,Wirtz,Florian,Wirtz,Liverpool,14,3,7.2,72,5.1,22271,14410,a,2026-10-23T02:40:12.981107
+367,Gakpo,Cody,Gakpo,Liverpool,14,3,7.1,71,6.5,27731,32709,a,2026-10-23T02:40:12.981107
+369,Ngumoha,Rio,Ngumoha,Liverpool,14,3,5.7,57,0.5,5562,1956,a,2026-10-23T02:40:12.981107
+370,Chiesa,Federico,Chiesa,Liverpool,14,3,5.3,53,0.0,130,103,a,2026-10-23T02:40:12.981107
+371,Gravenberch,Ryan,Gravenberch,Liverpool,14,3,5.8,58,0.9,2396,3445,a,2026-10-23T02:40:12.981107
+372,Mac Allister,Alexis,Mac Allister,Liverpool,14,3,5.4,54,1.3,6426,5677,a,2026-10-23T02:40:12.981107
+374,Endo,Endo,Wataru,Liverpool,14,3,4.8,48,0.1,126,225,a,2026-10-23T02:40:12.981107
+375,Nyoni,Trey,Nyoni,Liverpool,14,3,4.8,48,0.0,500,267,a,2026-10-23T02:40:12.981107
+378,McConnell,James,McConnell,Liverpool,14,3,4.4,44,0.2,380,749,a,2026-10-23T02:40:12.981107
+379,Isak,Alexander,Isak,Liverpool,14,4,9.0,90,13.3,157818,26876,a,2026-10-23T02:40:12.981107
+381,Koumas,Lewis,Koumas,Liverpool,14,3,5.0,50,0.1,758,1766,a,2026-10-23T02:40:12.981107
+382,Danns,Jayden,Danns,Liverpool,14,4,4.5,45,0.3,1307,1937,a,2026-10-23T02:40:12.981107
+579,Araujo,Ronald,Araujo,Liverpool,14,2,5.4,54,3.2,12655,13134,a,2026-10-23T02:40:12.981107
+627,Barcola,Bradley,Barcola,Liverpool,14,3,8.0,80,3.3,63473,15625,a,2026-10-23T02:40:12.981107
+155,Enzo,Enzo,Fernández,Man City,15,3,6.9,69,4.0,15498,22970,a,2026-10-23T02:40:12.981107
+237,Ndiaye,Iliman,Ndiaye,Man City,15,3,5.8,58,5.4,20168,22539,a,2026-10-23T02:40:12.981107
+384,Donnarumma,Gianluigi,Donnarumma,Man City,15,1,5.5,55,7.7,18633,24153,a,2026-10-23T02:40:12.981107
+386,Bettinelli,Marcus,Bettinelli,Man City,15,1,4.4,44,0.0,54,79,a,2026-10-23T02:40:12.981107
+388,Guéhi,Marc,Guéhi,Man City,15,2,6.0,60,17.7,26444,49110,a,2026-10-23T02:40:12.981107
+390,Rúben,Rúben,dos Santos Gato Alves Dias,Man City,15,2,5.5,55,2.0,8033,6454,a,2026-10-23T02:40:12.981107
+391,Gvardiol,Joško,Gvardiol,Man City,15,2,5.8,58,28.0,43783,142922,a,2026-10-23T02:40:12.981107
+392,Aït-Nouri,Rayan,Aït-Nouri,Man City,15,2,5.2,52,0.4,354,1214,a,2026-10-23T02:40:12.981107
+393,Khusanov,Abdukodir,Khusanov,Man City,15,2,5.3,53,1.2,1063,4289,a,2026-10-23T02:40:12.981107
+395,Lewis,Rico,Lewis,Man City,15,2,4.3,43,0.2,590,697,a,2026-10-23T02:40:12.981107
+396,Vitor Reis,Vitor,de Oliveira Nunes dos Reis,Man City,15,2,4.4,44,0.0,39,74,a,2026-10-23T02:40:12.981107
+398,Foden,Phil,Foden,Man City,15,3,6.8,68,2.1,70233,3694,a,2026-10-23T02:40:12.981107
+399,Cherki,Rayan,Cherki,Man City,15,3,8.0,80,38.4,282625,111380,a,2026-10-23T02:40:12.981107
+400,Doku,Jérémy,Doku,Man City,15,3,7.5,75,2.9,113466,7759,a,2026-10-23T02:40:12.981107
+411,Haaland,Erling,Haaland,Man City,15,4,15.7,157,77.0,103416,21784,a,2026-10-23T02:40:12.981107
+481,Anderson,Elliot,Anderson,Man City,15,3,6.3,63,3.9,10990,18252,a,2026-10-23T02:40:12.981107
+587,Rulli,Gerónimo,Rulli,Man City,15,1,4.9,49,0.0,37,49,a,2026-10-23T02:40:12.981107
+616,Bouaddi,Ayyoub,Bouaddi,Man City,15,3,5.5,55,0.2,2690,1047,a,2026-10-23T02:40:12.981107
+621,McAidoo,Ryan,McAidoo,Man City,15,3,4.4,44,0.1,854,760,a,2026-10-23T02:40:12.981107
+622,Braithwaite,Kaden,Braithwaite,Man City,15,2,3.9,39,0.2,1043,814,a,2026-10-23T02:40:12.981107
+628,Allan,Allan,Andrade Elias,Man City,15,3,6.0,60,0.0,170,136,a,2026-10-23T02:40:12.981107
+653,Samba,Floyd,Samba,Man City,15,3,4.4,44,0.0,1077,384,a,2026-10-23T02:40:12.981107
+43,Tielemans,Youri,Tielemans,Man Utd,16,3,5.7,57,1.4,5250,4919,a,2026-10-23T02:40:12.981107
+131,Baleba,Carlos,Baleba,Man Utd,16,3,4.9,49,0.3,4183,1454,a,2026-10-23T02:40:12.981107
+162,Andrey Santos,Andrey,Nascimento dos Santos,Man Utd,16,3,4.7,47,0.5,1741,2424,a,2026-10-23T02:40:12.981107
+325,Darlow,Karl,Darlow,Man Utd,16,1,4.5,45,0.0,64,80,a,2026-10-23T02:40:12.981107
+412,Lammens,Senne,Lammens,Man Utd,16,1,4.9,49,8.6,4792,32647,a,2026-10-23T02:40:12.981107
+414,Heaton,Tom,Heaton,Man Utd,16,1,4.0,40,0.1,200,195,a,2026-10-23T02:40:12.981107
+416,De Ligt,Matthijs,de Ligt,Man Utd,16,2,4.9,49,0.0,713,173,a,2026-10-23T02:40:12.981107
+417,Dalot,Diogo,Dalot Teixeira,Man Utd,16,2,4.8,48,1.4,1331,4761,a,2026-10-23T02:40:12.981107
+418,Maguire,Harry,Maguire,Man Utd,16,2,4.7,47,6.6,3259,30476,a,2026-10-23T02:40:12.981107
+420,Yoro,Leny,Yoro,Man Utd,16,2,4.8,48,0.5,1228,948,a,2026-10-23T02:40:12.981107
+422,Mazraoui,Noussair,Mazraoui,Man Utd,16,2,4.3,43,0.4,910,1642,a,2026-10-23T02:40:12.981107
+424,Amass,Harry,Amass,Man Utd,16,2,4.0,40,0.2,311,584,a,2026-10-23T02:40:12.981107
+426,B.Fernandes,Bruno,Borges Fernandes,Man Utd,16,3,11.8,118,28.1,9270,308524,a,2026-10-23T02:40:12.981107
+427,Mbeumo,Bryan,Mbeumo,Man Utd,16,3,7.9,79,20.9,190134,34504,a,2026-10-23T02:40:12.981107
+428,Cunha,Matheus,Santos Carneiro da Cunha,Man Utd,16,3,7.9,79,6.6,19608,43169,a,2026-10-23T02:40:12.981107
+430,Mount,Mason,Mount,Man Utd,16,3,5.4,54,0.0,116,133,a,2026-10-23T02:40:12.981107
+431,Amad,Amad,Diallo,Man Utd,16,3,5.7,57,0.3,2152,898,a,2026-10-23T02:40:12.981107
+434,J.Fletcher,Jack,Fletcher,Man Utd,16,3,4.9,49,0.0,17,35,a,2026-10-23T02:40:12.981107
+435,Lacey,Shea,Lacey,Man Utd,16,3,4.9,49,0.1,94,215,a,2026-10-23T02:40:12.981107
+437,Bendito Mantato,Bendito,Mantato,Man Utd,16,3,4.4,44,0.2,541,568,a,2026-10-23T02:40:12.981107
+438,Fletcher,Tyler,Fletcher,Man Utd,16,3,4.4,44,0.3,527,1091,a,2026-10-23T02:40:12.981107
+440,Zirkzee,Joshua,Zirkzee,Man Utd,16,4,5.3,53,0.4,1104,2293,a,2026-10-23T02:40:12.981107
+405,N.Gonzalez,Nico,González Iglesias,Newcastle,17,3,5.5,55,0.2,1291,766,a,2026-10-23T02:40:12.981107
+442,Pope,Nick,Pope,Newcastle,17,1,4.9,49,0.9,704,1968,a,2026-10-23T02:40:12.981107
+443,Gillespie,Mark,Gillespie,Newcastle,17,1,4.5,45,0.0,28,61,a,2026-10-23T02:40:12.981107
+445,Thiaw,Malick,Thiaw,Newcastle,17,2,5.0,50,1.9,1268,10834,a,2026-10-23T02:40:12.981107
+446,Schär,Fabian,Schär,Newcastle,17,2,4.9,49,0.2,393,852,a,2026-10-23T02:40:12.981107
+447,Botman,Sven,Botman,Newcastle,17,2,5.0,50,0.8,5832,2521,a,2026-10-23T02:40:12.981107
+448,Burn,Dan,Burn,Newcastle,17,2,4.8,48,0.7,1384,1062,a,2026-10-23T02:40:12.981107
+449,Hall,Lewis,Hall,Newcastle,17,2,5.3,53,20.4,57573,45600,a,2026-10-23T02:40:12.981107
+453,Barnes,Harvey,Barnes,Newcastle,17,3,6.1,61,7.6,18859,54736,a,2026-10-23T02:40:12.981107
+457,J.Murphy,Jacob,Murphy,Newcastle,17,3,5.9,59,0.1,351,831,a,2026-10-23T02:40:12.981107
+458,Joelinton,Joelinton Cássio,Apolinário de Lira,Newcastle,17,3,5.4,54,0.0,284,80,a,2026-10-23T02:40:12.981107
+459,L.Miley,Lewis,Miley,Newcastle,17,3,5.5,55,0.1,192,279,a,2026-10-23T02:40:12.981107
+460,Willock,Joe,Willock,Newcastle,17,3,5.0,50,0.6,1980,4902,a,2026-10-23T02:40:12.981107
+461,Touré,Bazoumana,Touré,Newcastle,17,3,5.7,57,0.1,151,494,a,2026-10-23T02:40:12.981107
+462,Steur,Sean,Steur,Newcastle,17,3,4.8,48,0.1,120,375,a,2026-10-23T02:40:12.981107
+464,Wissa,Yoane,Wissa,Newcastle,17,4,6.1,61,13.5,7441,231125,a,2026-10-23T02:40:12.981107
+465,Osula,William,Osula,Newcastle,17,4,5.8,58,0.3,959,873,a,2026-10-23T02:40:12.981107
+559,Bamba,Aladji,Bamba,Newcastle,17,3,4.8,48,0.1,117,303,a,2026-10-23T02:40:12.981107
+567,Horníček,Lukás,Hornícek,Newcastle,17,1,5.0,50,1.3,1395,6340,a,2026-10-23T02:40:12.981107
+593,Dedić,Amar,Dedic,Newcastle,17,2,4.5,45,1.2,470,7700,a,2026-10-23T02:40:12.981107
+634,Fernandez-Pardo,Matias,Fernandez-Pardo,Newcastle,17,4,6.0,60,0.1,570,1744,a,2026-10-23T02:40:12.981107
+659,Miley,Mason,Miley,Newcastle,17,3,4.5,45,0.1,1295,604,a,2026-10-23T02:40:12.981107
+663,Pivas,Miodrag,Pivas,Newcastle,17,2,4.0,40,0.0,187,85,a,2026-10-23T02:40:12.981107
+664,Salia,Vakhtang,Salia,Newcastle,17,4,4.5,45,0.3,2710,2782,a,2026-10-23T02:40:12.981107
+665,Mills,Michael,Mills,Newcastle,17,3,4.5,45,0.0,139,51,a,2026-10-23T02:40:12.981107
+666,Thompson,Kyran,Thompson,Newcastle,17,3,4.5,45,0.0,146,76,a,2026-10-23T02:40:12.981107
+167,Delap,Liam,Delap,Nott'm Forest,18,4,5.5,55,1.9,9221,15323,a,2026-10-23T02:40:12.981107
+201,Muñoz,Daniel,Muñoz Mejía,Nott'm Forest,18,2,5.3,53,4.8,4888,15428,a,2026-10-23T02:40:12.981107
+467,Sels,Matz,Sels,Nott'm Forest,18,1,5.0,50,1.4,4057,3149,a,2026-10-23T02:40:12.981107
+468,John,John Victor,Maciel Furtado,Nott'm Forest,18,1,4.4,44,0.1,95,98,a,2026-10-23T02:40:12.981107
+469,N.Williams,Neco,Williams,Nott'm Forest,18,2,5.0,50,6.3,7389,17547,a,2026-10-23T02:40:12.981107
+471,Milenković,Nikola,Milenković,Nott'm Forest,18,2,5.4,54,0.8,745,1866,a,2026-10-23T02:40:12.981107
+472,Murillo,Murillo,Costa dos Santos,Nott'm Forest,18,2,5.5,55,2.1,11157,5308,a,2026-10-23T02:40:12.981107
+473,Aina,Ola,Aina,Nott'm Forest,18,2,4.3,43,1.8,887,10206,a,2026-10-23T02:40:12.981107
+474,Jair Cunha,Jair,Paula da Cunha Filho,Nott'm Forest,18,2,4.4,44,0.2,311,382,a,2026-10-23T02:40:12.981107
+476,O.Richards,Omar,Richards,Nott'm Forest,18,2,3.9,39,0.2,1822,643,a,2026-10-23T02:40:12.981107
+478,Netz,Luca,Netz,Nott'm Forest,18,2,4.4,44,0.0,51,74,a,2026-10-23T02:40:12.981107
+480,Gibbs-White,Morgan,Gibbs-White,Nott'm Forest,18,3,7.9,79,11.5,41078,118280,a,2026-10-23T02:40:12.981107
+482,Hudson-Odoi,Callum,Hudson-Odoi,Nott'm Forest,18,3,5.7,57,0.1,516,567,a,2026-10-23T02:40:12.981107
+483,Ndoye,Dan,Ndoye,Nott'm Forest,18,3,5.5,55,0.7,6504,2334,a,2026-10-23T02:40:12.981107
+486,McAtee,James,McAtee,Nott'm Forest,18,3,5.5,55,0.1,635,486,a,2026-10-23T02:40:12.981107
+487,Dominguez,Nicolás,Domínguez,Nott'm Forest,18,3,4.8,48,0.1,230,128,a,2026-10-23T02:40:12.981107
+488,I.Sangaré,Ibrahim,Sangaré,Nott'm Forest,18,3,4.8,48,0.3,436,1365,a,2026-10-23T02:40:12.981107
+489,Yates,Ryan,Yates,Nott'm Forest,18,3,4.4,44,1.1,2935,4364,a,2026-10-23T02:40:12.981107
+490,Wood,Chris,Wood,Nott'm Forest,18,4,5.7,57,0.8,1541,3710,a,2026-10-23T02:40:12.981107
+493,Kalimuendo,Arnaud,Kalimuendo,Nott'm Forest,18,4,5.4,54,0.0,150,208,a,2026-10-23T02:40:12.981107
+558,Schlager,Xaver,Schlager,Nott'm Forest,18,3,5.0,50,0.1,338,342,a,2026-10-23T02:40:12.981107
+581,Diomande,Ousmane,Diomande,Nott'm Forest,18,2,5.4,54,0.5,1305,1370,a,2026-10-23T02:40:12.981107
+590,Benda,Steven,Benda,Nott'm Forest,18,1,4.5,45,0.1,125,134,a,2026-10-23T02:40:12.981107
+112,Van Hecke,Jan Paul,van Hecke,Spurs,19,2,4.9,49,6.8,12359,21964,a,2026-10-23T02:40:12.981107
+455,Tonali,Sandro,Tonali,Spurs,19,3,5.3,53,1.8,4663,7138,a,2026-10-23T02:40:12.981107
+495,Austin,Brandon,Austin,Spurs,19,1,4.0,40,1.0,1558,1447,a,2026-10-23T02:40:12.981107
+496,Kinsky,Antonín,Kinský,Spurs,19,1,4.5,45,15.1,8958,50479,a,2026-10-23T02:40:12.981107
+497,Dubravka,Martin,Dubravka,Spurs,19,1,4.0,40,16.5,10974,29522,a,2026-10-23T02:40:12.981107
+498,Senesi,Marcos,Senesi Barón,Spurs,19,2,5.7,57,3.1,1262,10376,a,2026-10-23T02:40:12.981107
+503,Van de Ven,Micky,van de Ven,Spurs,19,2,5.0,50,3.6,4580,13252,a,2026-10-23T02:40:12.981107
+508,Davies,Ben,Davies,Spurs,19,2,3.9,39,1.0,5816,2870,a,2026-10-23T02:40:12.981107
+509,Byfield,Jun'ai,Byfield,Spurs,19,2,4.0,40,0.1,235,161,a,2026-10-23T02:40:12.981107
+510,Rowswell,James,Rowswell,Spurs,19,2,4.0,40,0.1,199,203,a,2026-10-23T02:40:12.981107
+512,Kudus,Mohammed,Kudus,Spurs,19,3,6.5,65,0.4,7925,2569,a,2026-10-23T02:40:12.981107
+514,Tel,Mathys,Tel,Spurs,19,3,5.6,56,0.1,217,744,a,2026-10-23T02:40:12.981107
+515,Maddison,James,Maddison,Spurs,19,3,6.2,62,0.5,13531,1320,a,2026-10-23T02:40:12.981107
+519,Gallagher,Conor,Gallagher,Spurs,19,3,5.3,53,0.2,445,964,a,2026-10-23T02:40:12.981107
+521,Kulusevski,Dejan,Kulusevski,Spurs,19,3,6.5,65,0.0,1154,122,a,2026-10-23T02:40:12.981107
+522,Gray,Archie,Gray,Spurs,19,3,4.9,49,0.2,566,680,a,2026-10-23T02:40:12.981107
+524,Olusesi,Callum,Olusesi,Spurs,19,3,4.4,44,0.9,1034,3402,a,2026-10-23T02:40:12.981107
+525,Fernandes,Mateus,Fernandes,Spurs,19,3,5.7,57,0.6,333,3384,a,2026-10-23T02:40:12.981107
+526,Solanke,Dominic,Solanke-Mitchell,Spurs,19,4,5.8,58,1.5,7612,11406,a,2026-10-23T02:40:12.981107
+601,Williams-Barnett,Luca,Williams-Barnett,Spurs,19,3,4.5,45,0.1,267,351,a,2026-10-23T02:40:12.981107
+529,Roefs,Robin,Roefs,Sunderland,20,1,4.9,49,2.1,1515,6551,a,2026-10-23T02:40:12.981107
+531,Ellborg,Melker,Ellborg,Sunderland,20,1,4.4,44,0.1,138,160,a,2026-10-23T02:40:12.981107
+533,Mukiele,Nordi,Mukiele,Sunderland,20,2,5.4,54,1.8,3493,5734,a,2026-10-23T02:40:12.981107
+534,Hume,Trai,Hume,Sunderland,20,2,4.3,43,2.0,1116,7837,a,2026-10-23T02:40:12.981107
+535,Alderete,Omar,Alderete,Sunderland,20,2,4.8,48,0.2,212,761,a,2026-10-23T02:40:12.981107
+536,Reinildo,Reinildo,Mandava,Sunderland,20,2,4.4,44,0.2,309,618,a,2026-10-23T02:40:12.981107
+539,O'Nien,Luke,O'Nien,Sunderland,20,2,3.9,39,2.5,4346,7294,a,2026-10-23T02:40:12.981107
+542,E.Le Fée,Enzo,Le Fée,Sunderland,20,3,5.7,57,2.9,5153,12195,a,2026-10-23T02:40:12.981107
+543,Diarra,Habib,Diarra,Sunderland,20,3,5.3,53,0.0,46,44,a,2026-10-23T02:40:12.981107
+544,Xhaka,Granit,Xhaka,Sunderland,20,3,5.4,54,3.1,2657,15458,a,2026-10-23T02:40:12.981107
+545,Sadiki,Noah,Sadiki,Sunderland,20,3,4.8,48,0.2,1618,969,a,2026-10-23T02:40:12.981107
+548,Rigg,Chris,Rigg,Sunderland,20,3,4.8,48,0.0,47,101,a,2026-10-23T02:40:12.981107
+549,Talbi,Chemsdine,Talbi,Sunderland,20,3,5.3,53,0.1,52,319,a,2026-10-23T02:40:12.981107
+550,Jocelin.T,Djiamgone Jocelin Ta,Bi,Sunderland,20,3,4.9,49,0.0,9,20,a,2026-10-23T02:40:12.981107
+551,N.Angulo,Nilson,Angulo,Sunderland,20,3,5.0,50,0.1,160,726,a,2026-10-23T02:40:12.981107
+612,Methalie,Dayann,Méthalie,Sunderland,20,2,4.5,45,0.0,75,40,a,2026-10-23T02:40:12.981107
+613,Ahoka,Jules,Ahoka,Sunderland,20,3,4.5,45,0.2,548,827,a,2026-10-23T02:40:12.981107
+646,Fofana,Malick,Fofana,Sunderland,20,3,5.5,55,0.0,159,287,a,2026-10-23T02:40:12.981107
+651,J.Angulo,Juan,Angulo,Sunderland,20,4,4.5,45,0.8,3432,5781,a,2026-10-23T02:40:12.981107
+668,Tutierov,Tymur,Tutierov,Sunderland,20,3,5.0,50,0.0,26,1,a,2026-10-23T02:40:12.981107
