@@ -6370,3 +6370,11 @@ player_id,prediction_date,predicted,actual,correct,resolved_date
 627,2026-10-24,rise,none,False,
 667,2026-10-24,rise,none,False,
 640,2026-10-24,fall,none,False,
+166,2026-10-24,rise,none,False,
+53,2026-10-24,rise,fall,False,2026-10-24
+514,2026-10-24,rise,none,False,
+591,2026-10-24,rise,none,False,
+37,2026-10-24,rise,none,False,
+597,2026-10-24,rise,none,False,
+631,2026-10-24,rise,none,False,
+521,2026-10-24,rise,none,False,
